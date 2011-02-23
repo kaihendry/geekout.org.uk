@@ -2,6 +2,8 @@
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
 """]]
 
+<img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011">
+
 [[Route]]
 
 [[Recent Comments|comments]]

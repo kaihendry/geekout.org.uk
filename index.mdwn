@@ -8,7 +8,6 @@
 actions=yes rootpage="posts"]]
 
 
-<img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011">
 
 This is Web site of two adventurers Jamie and Kai, who are about to embark on
 an adventure of a lifetime.
