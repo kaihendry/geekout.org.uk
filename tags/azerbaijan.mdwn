@@ -1,0 +1,4 @@
+[[!meta title="pages tagged azerbaijan"]]
+
+[[!inline pages="tagged(azerbaijan)" actions="no" archive="yes"
+feedshow=10]]
