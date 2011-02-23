@@ -7,7 +7,5 @@
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10"
 actions=yes rootpage="posts"]]
 
-Testing 123.
-
 
 This blog is powered by [ikiwiki](http://ikiwiki.info).

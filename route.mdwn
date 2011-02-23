@@ -136,5 +136,3 @@ Companies we like that we should pitch at:
 * Car safe? ~ £50
 * Deposit 800GBP get it back on drop off
 * Total outlay: At least 4kGBP
-
-# [Edit page](http://dabase.com/ikiwiki.cgi?page=geekout&do=edit)
