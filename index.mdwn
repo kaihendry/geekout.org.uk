@@ -9,8 +9,8 @@ actions=yes rootpage="posts"]]
 
 
 
-This Web site of two adventurers Jamie and Kai, who are about to embark on an
-adventure of a lifetime. A [[route]] from
+**Team Geekout** are two adventurers Jamie and Kai, embarking on an adventure
+of a lifetime. A [[route]] from
 [Goodwood](http://maps.google.co.uk/maps?f=&q=Goodwood+Racecourse) on the 23rd
 of July 2011 and [Ulaanbaatar](http://maps.google.co.uk/maps?f=&q=Ulaanbaatar)
 some several weeks later.
