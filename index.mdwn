@@ -9,10 +9,10 @@ actions=yes rootpage="posts"]]
 
 
 
-This is Web site of two adventurers Jamie and Kai, who are about to embark on
-an adventure of a lifetime.
+This Web site of two adventurers Jamie and Kai, who are about to embark on an
+adventure of a lifetime. A [[route]] from
 [Goodwood](http://maps.google.co.uk/maps?f=&q=Goodwood+Racecourse) on the 23rd
-of July 2011 and [Ulaanbataar](http://maps.google.co.uk/maps?f=&q=Ulaanbaatar)
+of July 2011 and [Ulaanbaatar](http://maps.google.co.uk/maps?f=&q=Ulaanbaatar)
 some several weeks later.
 
 * [Kai on twitter](http://twitter.com/#!/kaihendry)
