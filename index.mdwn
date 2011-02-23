@@ -8,8 +8,13 @@
 actions=yes rootpage="posts"]]
 
 
+<img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011">
+
 This is Web site of two adventurers Jamie and Kai, who are about to embark on
 an adventure of a lifetime.
 [Goodwood](http://maps.google.co.uk/maps?f=&q=Goodwood+Racecourse) on the 23rd
-of July 2011 and [Ulaanbataar](http://maps.google.co.uk/maps?f=&q=Ulaanbatar)
+of July 2011 and [Ulaanbataar](http://maps.google.co.uk/maps?f=&q=Ulaanbaatar)
 some several weeks later.
+
+* [Kai on twitter](http://twitter.com/#!/kaihendry)
+* [Jamie on twitter](http://twitter.com/#!/jamiekitson)
