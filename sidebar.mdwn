@@ -10,6 +10,10 @@
 
 <a href='http://www.justgiving.com/geekout' alt='JustGiving - Sponsor me now!' target='_blank'><img src='http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge9.gif' width='120' height='90'></a>
 
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/"
+scrolling="no" frameborder="0"
+style="border:none; width:450px; height:80px"><iframe>
+
 <!-- Google Public Location Badge -->
 <iframe src="http://www.google.com/latitude/apps/badge/api?user=-1288002110024858896&type=iframe&maptype=roadmap" width="180" height="300" frameborder="0"></iframe>
 <!-- To disable location sharing, you *must* visit https://www.google.com/latitude/apps/badge and disable the Google Public Location badge. Removing this code snippet is not enough! -->
