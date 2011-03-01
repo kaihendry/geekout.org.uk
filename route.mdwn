@@ -1,6 +1,8 @@
 # Proposed route
 
-[Map](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=211124371697914849936.00049cb5a8407f88469d0&z=3)
+[Our mapped route](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=211124371697914849936.00049cb5a8407f88469d0&z=3)
+
+[Official Mongol rally route planner](http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=212571189677464492406.00049b245c749fc85de9a&ll=50.736455,52.382813&spn=44.897506,136.933594&z=3&source=embed)
 
 [Visa applications](/visa-application.png)
 
