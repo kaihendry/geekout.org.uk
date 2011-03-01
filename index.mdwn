@@ -6,14 +6,3 @@
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10"
 actions=yes rootpage="posts"]]
-
-
-
-**Team Geekout** are two adventurers Jamie and Kai, embarking on an adventure
-of a lifetime. A [[route]] from
-[Goodwood](http://maps.google.co.uk/maps?f=&q=Goodwood+Racecourse) on the 23rd
-of July 2011 and [Ulaanbaatar](http://maps.google.co.uk/maps?f=&q=Ulaanbaatar)
-some several weeks later.
-
-* [Kai on twitter](http://twitter.com/#!/kaihendry)
-* [Jamie on twitter](http://twitter.com/#!/jamiekitson)
