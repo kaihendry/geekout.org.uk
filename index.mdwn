@@ -4,5 +4,4 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10"
-actions=no rootpage="posts" postform=no]]
+[[!inline postform=no pages="page(./posts/*) and !*/Discussion" show="10" actions=no rootpage="posts" postformtext="blah blah blew"]]
