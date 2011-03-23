@@ -50,6 +50,8 @@ Ask Andrei, a coastal resort?
 
 Take it slow, there are **dangerous** roads
 
+Visa is valid for 3 months from date of issue. Visa Machine can only get the "authorisation code", have to get the visa in person and pay the consular fee of £87.
+
 * Date of entry 2011/08/07 7th of August (Sunday)
 * Date of exit 2011/08/20
 
@@ -61,10 +63,10 @@ No visa required? REALLY?
 
 ## Uzbekistan
 
-7 day visa
+15 day visa
 
 * Entry 2011/08/10
-* Exit 2011/08/16
+* Exit 2011/08/25
 
 ##  Tajikistan
 
@@ -75,10 +77,14 @@ No visa required? REALLY?
 
 ## Kyrgyzstan
 
+One month visa, valid from stated entry date.
+
 * Entry 2011/08/12
 * Exit 2011/09/01
 
 ## Kazakhstan
+
+Stated entry point: Merke. See: http://visamachine.theadventurists.com/index.php?mode=visamachine&visa=205
 
 * Entry 2011/08/13
 * Exit 2011/09/10
@@ -89,8 +95,10 @@ Where exactly is the border crossings involved with Kazakhstan to Mongolia via R
 
 ## Russia
 
+30 day visa.
+
 * Entry 2011/08/20
-* Exit 2011/09/15
+* Exit 2011/09/18
 
 Maybe visit Novossibirsk ?
 
