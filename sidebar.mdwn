@@ -10,7 +10,7 @@
 
 <a href='https://www.justgiving.com/teams/Geekout' alt='JustGiving - Sponsor us now!' target='_blank'><img src='http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge9.gif' width='120' height='90'></a>
 
-<iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; height:80px"></iframe>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 15em; height:80px"></iframe>
 
 <iframe src="http://www.google.com/latitude/apps/badge/api?user=-1288002110024858896&type=iframe&maptype=roadmap" width="180" height="300" frameborder="0"></iframe>
 
