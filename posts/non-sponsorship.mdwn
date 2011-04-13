@@ -1,7 +1,3 @@
-<div style="border: solid black 2px; padding: 1em; margin: 1em">
-Hello
-<p>
-
 As you may or may not know, Kai and I are planning to do the Mongol
 Rally this July. It's a jaunt in the name of charity, but as it's
 something that I want to do I feel bad asking friends and family to
@@ -67,4 +63,3 @@ argument or who will kill who first and how.
 Good luck!
 
 &ast; Fun is not guaranteed.
-</div>
