@@ -19,6 +19,7 @@
 * Petrol can
 * Oil
 * Water?
+* Safe/hiding place? 
 
 ### Tools
 
