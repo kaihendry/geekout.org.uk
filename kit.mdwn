@@ -1,8 +1,8 @@
 # Legend
 
-✓ Kai has this
+✓ Kai has this ♊ Kai is getting this
 
-◯ Jamie has this
+◯ Jamie has this ♋ Jamie is getting this
 
 # Gadgets
 
@@ -12,7 +12,7 @@
 * Etrex GPS ✓ with a [cable to power it](http://www.nomad.ee/micros/etrex.shtml) -- used for bread crumb trail
 * [Spot connect](http://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288)
 * Maybe something extra for charging our geek devices <https://powertraveller.com>
-* First aid kit (Kai is getting this together)
+* First aid kit ♊
 
 ## Jamie
 
@@ -20,19 +20,19 @@
 
 ## Car
 
-* Extra spare?
-* CB radio - Justin Hill recommends the TTI TCB-660 -- are we seriously doing this convoy? I'm not sure ...
-* Haynes manual - done
-* Petrol can
-* Oil
-* Water, I have a nalgene water 500ml bottle, [the Source](http://www.source-hydration.co.uk/acatalog/Source_WXP_series.html) do some excellent bigger packs from [Ellis Brigham](http://www.ellis-brigham.com/) - The car is not going to be that impressed with 500ml.
-* Safe/hiding place? -- get a money belt? - For the car?
+* Extra spare? ♋
+* CB radio - Justin Hill recommends the TTI TCB-660 -- are we seriously doing this convoy? I'm not sure ... ♋
+* Haynes manual ✓
+* Petrol can ♋
+* Oil ♋
+* Water 500ml ✓, 2x5L source packs ♊
+* Money belt ♊ ♋
 
 ## Camping stuff
 
-* Tent
-* Thermarest camping mat
-* Sleeping bag
+* Tent ♊
+* Thermarest camping mat ♊
+* Sleeping bag ✓
 
 ### Tools
 
@@ -45,5 +45,5 @@
 
 ### Spares
 
-* Inner tubes
-* Spark plugs?
+* Inner tubes ♋
+* Spark plugs? ♋
