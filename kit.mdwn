@@ -52,6 +52,8 @@
 * Box of latex type gloves
 * Tarp
 * String/chord/rope, suitable for tarp and towing.
+* Better jack, eg, pneumatic/hydrolic?
+* Things to keep the car up?
 
 ## Spares
 
