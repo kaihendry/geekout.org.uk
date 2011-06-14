@@ -26,7 +26,7 @@
 * Petrol can ♋
 * Oil ♋
 * Water 500ml ✓, 2x5L source packs ♊
-* Money belt ♊ ♋
+* Lights
 
 ## Camping stuff
 
@@ -42,6 +42,8 @@
 * Car tyre pump
 * Puncture repair gunk/Tyre repair kit?
 * Duct tape
+* Multimeter
+* Torch 
 
 ### Spares
 
