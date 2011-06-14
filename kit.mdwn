@@ -50,6 +50,7 @@
 * Multimeter
 * Torch
 * Box of latex type gloves
+* Tarp
 
 ## Spares
 
