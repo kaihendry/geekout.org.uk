@@ -34,7 +34,9 @@ Driving on the day we leave Prague
 
 ## Ukraine
 
-Most likely stop is Ivano-Frnkivsk
+Most likely stop is <http://en.wikipedia.org/wiki/Ivano-Frankivsk>
+
+Maybe [couch surf](http://www.couchsurfing.org/search#location=%7B%22state_id%22%3A%223520%22%2C%22state%22%3A%22Ivano-Frankivsk%22%2C%22latitude%22%3A%2248.760765%22%2C%22longitude%22%3A%2224.907917%22%2C%22type%22%3A%22state%22%2C%22country_id%22%3A%22243%22%2C%22country%22%3A%22Ukraine%22%2C%22region_id%22%3A%226%22%2C%22region%22%3A%22Europe%22%7D&order_by=default&map_edges=%7B%22northEast%22%3A%7B%22lat%22%3A49.62232554142529%2C%22lng%22%3A26.215290046874998%7D%2C%22southWest%22%3A%7B%22lat%22%3A47.88416849566705%2C%22lng%22%3A23.600543953124998%7D%7D&couchstatus_all=1&max_surfers=0&male=1&female=1&several_people=1&username=Name%20(or%20Username)&keyword=Keyword) this one?
 
 ## Moldova
 
