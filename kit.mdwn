@@ -51,6 +51,7 @@
 * Torch
 * Box of latex type gloves
 * Tarp
+* String/chord/rope, suitable for tarp and towing.
 
 ## Spares
 
