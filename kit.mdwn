@@ -54,6 +54,7 @@
 * String/chord/rope, suitable for tarp and towing.
 * Better jack, eg, pneumatic/hydrolic?
 * Things to keep the car up?
+* Cable ties (small and large)
 
 ## Spares
 
@@ -64,3 +65,6 @@
 ## Provisions
 
 * Tea
+* Powdered milk?
+* Dried food (noodles, cuppa-soup)
+* Tinned food? (fruit, beans)
