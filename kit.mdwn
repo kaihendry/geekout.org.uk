@@ -23,7 +23,7 @@
 ## Car
 
 * Extra spare? ♋
-* CB radio ♊
+* CB radio ✓
 * Haynes manual ✓
 * Petrol can ♋
 * Oil ♋
@@ -65,7 +65,9 @@
 
 ## Provisions
 
+Kai can lay an order at <http://www.waitrose.com/> for delivery to BN44 3DG.
+
 * Tea
 * Powdered milk?
 * Dried food (noodles, cuppa-soup)
-* Tinned food? (fruit, beans, soup. Heavy, emergency only?)
+* Tinned food? (fruit, sardines, beans, soup. Heavy, emergency only?)
