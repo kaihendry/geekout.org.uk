@@ -63,6 +63,7 @@
 * Spark plugs? ♋
 * Wheel nuts
 * Fuses/fuse wire
+* Tubing (radiator, fuel, etc)
 
 ## Provisions
 
