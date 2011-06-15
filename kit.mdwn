@@ -54,7 +54,7 @@
 * Tarp
 * String/chord/rope, suitable for tarp and towing.
 * Better jack, eg, pneumatic/hydrolic?
-* Things to keep the car up?
+* Axle stands
 * Cable ties (small and large)
 
 ## Spares
