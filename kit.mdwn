@@ -61,6 +61,7 @@
 * Inner tubes ♋
 * Spark plugs? ♋
 * Wheel nuts
+* Fuses/fuse wire
 
 ## Provisions
 
