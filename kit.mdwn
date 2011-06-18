@@ -56,6 +56,7 @@
 * Better jack, eg, pneumatic/hydrolic?
 * Axle stands
 * Cable ties (small and large)
+* Handwash, eg, Lava
 
 ## Spares
 
@@ -64,6 +65,7 @@
 * Wheel nuts
 * Fuses/fuse wire
 * Tubing (radiator, fuel, etc)
+* Cam belt
 
 ## Provisions
 
