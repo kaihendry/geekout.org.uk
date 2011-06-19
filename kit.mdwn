@@ -69,6 +69,7 @@
 * Fuses/fuse wire
 * Tubing (radiator, fuel, etc)
 * Fanbelt (There are two.)
+* Air filter
 
 ## Provisions
 
