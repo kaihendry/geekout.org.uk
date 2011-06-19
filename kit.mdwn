@@ -57,6 +57,9 @@
 * Axle stands
 * Cable ties (small and large)
 * Handwash, eg, Lava
+* WD40
+* Leak fix stuff
+* Radiator leak fix stuff
 
 ## Spares
 
@@ -65,7 +68,7 @@
 * Wheel nuts
 * Fuses/fuse wire
 * Tubing (radiator, fuel, etc)
-* Cam belt
+* Fanbelt (There are two.)
 
 ## Provisions
 
