@@ -70,6 +70,7 @@
 * Tubing (radiator, fuel, etc)
 * Fanbelt (There are two.)
 * Air filter
+* Coolant reservoir
 
 ## Provisions
 
