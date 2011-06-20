@@ -23,7 +23,7 @@
 
 ## Car
 
-* Extra spare? ♋
+* Extra spare ♋
 * CB radio ✓
 * Haynes manual ✓
 * Petrol can ♋
@@ -42,35 +42,41 @@
 
 ## Tools
 
-* Spanners/socket set
+* Spanners/socket set/adjustable spanner
 * Screwdrivers (x4?)
 * Breaker bar
 * Car tyre pump
-* Puncture repair gunk/Tyre repair kit?
-* Duct tape
-* Multimeter
+* Puncture repair gunk ◯
+* Tyre repair kit?
+* Duct tape ◯
+* Multimeter?
 * Torch
+* Head torch ◯ ♊
 * Box of latex type gloves
-* Tarp
-* String/chord/rope, suitable for tarp and towing.
+* Tarp ◯
+* String ◯
+* Chord/rope, suitable for tarp and towing.
 * Better jack, eg, pneumatic/hydrolic?
-* Axle stands
+* Axle stands?
 * Cable ties (small and large)
-* Handwash, eg, Lava
+* Handwash ◯
 * WD40
-* Leak fix stuff
+* Petrol tank leak fix stuff
 * Radiator leak fix stuff
 
 ## Spares
 
-* Inner tubes? ♋
-* Spark plugs? ♋
+* Inner tubes?
+* Spark plugs?
 * Wheel nuts
 * Fuses/fuse wire
 * Tubing (radiator, fuel, etc)
 * Fanbelt (There are two.)
 * Air filter
 * Coolant reservoir
+* Circular clip things
+* Front suspension ◯
+* Rear suspension
 
 ## Provisions
 
