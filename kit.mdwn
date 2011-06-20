@@ -6,8 +6,8 @@
 
 # Gadgets
 
-* Pentax K-m -- & spare AA batteries ✓
 * Nexus S with O2 SIM ✓
+* Canon Ixus ✓
 * Iphone 4 ✓ - for video & snapshots
 * Car power socket to 2 Micro USBs ✓
 * [Go Pro](http://gopro.com/cameras/hd-motorsports-hero-camera/) ♊
@@ -15,7 +15,7 @@
 * Tomtom ♊ from my Dad
 * [Spot connect](http://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288) ♊
 * Maybe something extra for charging our geek devices <https://powertraveller.com> ♊
-* First aid kit ♊
+* First aid kit ◯ ♊
 
 ## Jamie
 
@@ -28,7 +28,7 @@
 * Haynes manual ✓
 * Petrol can ♋
 * Oil ♋
-* Water 500ml ✓, 2x5L source packs ♊
+* Water 500ml ✓, 5L water pack ◯
 * Lights
 * Complete set of springs
 * Music (CDs or auxiliary? - Check if the CD player does MP3s)
