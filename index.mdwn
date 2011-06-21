@@ -1,3 +1,5 @@
+[[!inline pages="internal(planet/*)" template="microblog" show=1 feeds=no]]
+
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
 """ else="""
