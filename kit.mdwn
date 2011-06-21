@@ -14,8 +14,8 @@
 * Etrex GPS ✓ with a [cable to power it](http://www.nomad.ee/micros/etrex.shtml) -- used for bread crumb trail
 * Tomtom ♊ from my Dad
 * [Spot connect](http://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288) ♊
-* Maybe something extra for charging our geek devices <https://powertraveller.com> ♊
-* First aid kit ◯ ♊
+* Maybe something extra for charging our geek devices <https://powertraveller.com> ✓
+* First aid kit ◯ ✓
 
 ## Jamie
 
@@ -25,10 +25,11 @@
 
 * Extra spare ♋
 * CB radio ✓
+* 4-way cigar lighter splitter ✓
 * Haynes manual ✓
 * Petrol can ♋
 * Oil ♋
-* Water 500ml ✓, 5L water pack ◯
+* Water 500ml ✓, 5L water pack ◯, 3L water pack with tube
 * Lights
 * Complete set of springs
 * Music (CDs or auxiliary? - Check if the CD player does MP3s)
@@ -37,7 +38,7 @@
 
 * Tent ♊
 * Thermarest camping mat ♊
-* Sleeping bag ✓
+* Sleeping bag ✓ ◯
 * Stove ♊
 
 ## Tools
@@ -51,7 +52,7 @@
 * Duct tape ◯
 * Multimeter?
 * Torch
-* Head torch ◯ ♊
+* Head torch ◯ ✓
 * Box of latex type gloves
 * Tarp ◯
 * String ◯
@@ -83,6 +84,6 @@
 Kai can lay an order at <http://www.waitrose.com/> for delivery to BN44 3DG.
 
 * Tea
-* Powdered milk?
+* Powdered milk? eww
 * Dried food (noodles, cuppa-soup, Nong shim)
-* Tinned food? (fruit, sardines, beans, soup. Heavy, emergency only?)
+* Tinned food? (fruit, sardines, beans, soup)
