@@ -1,0 +1,4 @@
+[[!meta title="pages tagged car"]]
+
+[[!inline pages="tagged(car)" actions="no" archive="yes"
+feedshow=10]]
