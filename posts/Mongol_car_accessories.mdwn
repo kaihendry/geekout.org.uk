@@ -12,3 +12,5 @@ And a phone charger for keeping you guys informed:
 <a href="http://www.flickr.com/photos/hendry/5814285121/" title="Mongol rally car charger by Kai Hendry, on Flickr"><img src="http://farm6.static.flickr.com/5272/5814285121_11542f84f8_m.jpg" width="240" height="180" alt="Mongol rally car charger"></a>
 
 What else do we need? Have a look at out [[kit]] list and suggest anything you may think might help us.
+
+[[!tag  car kit]]
