@@ -1,3 +1,5 @@
+[[!meta title="Team Geekout (Jamie&Kai) are geeking out on the Mongol Rally 2011" ]]
+
 [[!inline pages="internal(planet/*)" template="microblog" show=1 feeds=no]]
 
 [[!if test="enabled(sidebar)" then="""
