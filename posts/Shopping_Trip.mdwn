@@ -52,3 +52,5 @@ href="http://www.theadventurists.com/">the new Adventurists website</a>. For
 the record I like the new site, it's nice and bright, it looks good, it's easy
 to get around and I completely understand why they have chosen to compile the
 handbook into a PDF.
+
+[[!tag  kit car]]
