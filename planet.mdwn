@@ -1,4 +1,4 @@
-[[!inline pages="internal(planet/*) and !*/Discussion"]]
+[[!inline pages="internal(planet/*) and !*/Discussion and page(./posts/*)"]]
 
 * [[!aggregate expirecount=25 name="kai" feedurl="http://twitter.com/statuses/user_timeline/14742294.rss" url="http://twitter.com/kaihendry"]]
 * [[!aggregate expirecount=25 name="jamie" feedurl="http://twitter.com/statuses/user_timeline/14711255.rss" url="http://twitter.com/jamiekitson"]]
