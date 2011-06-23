@@ -9,3 +9,9 @@ weeks later.
 
 <a title="Kai Hendry" href="http://twitter.com/#!/kaihendry"><img src="http://graph.facebook.com/kaihendry/picture?type=large"></a>
 <a title="Jamie Kitson" href="http://twitter.com/#!/jamiekitson"><img src="http://graph.facebook.com/mardybumhead/picture?type=large"></a>
+
+# Contact emails
+
+<hendry@iki.fi> - Contact Kai
+
+<jamie@kitten-x.com> - Contact Jamie
