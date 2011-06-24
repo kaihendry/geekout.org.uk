@@ -2,15 +2,15 @@
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
 """]]
 
-<img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011">
+<a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
 
-[[About]]
+# [[About Jamie & Kai, team Geekout|About]]
 
 <h1 id="countdown"></h1>
 
-[[Route and Itinerary|Route]]
+# [[Route and Itinerary|Route]]
 
-[[Place a bet|posts/non-sponsorship]]
+# [[Place a bet on how far we get|posts/non-sponsorship]]
 
 <a href="http://feedburner.google.com/fb/a/mailverify?uri=TeamGeekout&amp;loc=en_US">Subscribe by Email</a>
 
@@ -22,7 +22,7 @@
 
 [[Recent Comments|comments]]
 
-[[Archives]]
+# [[Archives]]
 
 [[Tags]]:
 [[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
