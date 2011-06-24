@@ -4,7 +4,7 @@
 
 # Time till launch
 
-<h2 id="countdown"></h2>
+<h3 id="countdown"></h3>
 
 # [[Route and Itinerary|Route]]
 
