@@ -1,0 +1,4 @@
+[[!meta title="pages tagged jamie"]]
+
+[[!inline pages="tagged(jamie)" actions="no" archive="yes"
+feedshow=10]]
