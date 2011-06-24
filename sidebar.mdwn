@@ -1,12 +1,10 @@
-[[!if test="enabled(calendar)" then="""
-[[!calendar pages="page(./posts/*) and !*/Discussion"]]
-"""]]
-
 <a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
 
 # [[About Jamie & Kai, team Geekout|About]]
 
-<h1 id="countdown"></h1>
+# Time till launch
+
+<h2 id="countdown"></h2>
 
 # [[Route and Itinerary|Route]]
 
@@ -23,6 +21,10 @@
 [[Recent Comments|comments]]
 
 # [[Archives]]
+
+[[!if test="enabled(calendar)" then="""
+[[!calendar pages="page(./posts/*) and !*/Discussion"]]
+"""]]
 
 [[Tags]]:
 [[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
