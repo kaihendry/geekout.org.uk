@@ -1,12 +1,12 @@
 <a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
 
-## [[About Jamie & Kai, team Geekout|About]]
+### [[About Jamie & Kai, team Geekout|About]]
 
-## Time till launch
+### Time till launch
 
 <h3 id="countdown"></h3>
 
-[[Route and Itinerary|Route]]
+### [[Route and Itinerary|Route]]
 
 ### [[Place a bet on how far we get|posts/non-sponsorship]]
 
