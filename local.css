@@ -1,2 +1,5 @@
 .actions { opacity: 0 }
+
 .actions:hover { opacity: 1 }
+
+.pageheader { background-repeat: repeat-x }
