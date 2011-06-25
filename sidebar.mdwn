@@ -10,7 +10,7 @@
 
 # [[Place a bet on how far we get|posts/non-sponsorship]]
 
-<a href="http://feedburner.google.com/fb/a/mailverify?uri=TeamGeekout&amp;loc=en_US">Subscribe by Email</a>
+<a href="/posts/Subscribe_by_Email">Subscribe by Email</a>
 
 <a href='https://www.justgiving.com/teams/Geekout' alt='JustGiving - Sponsor us now!' target='_blank'><img src='http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge9.gif' width='120' height='90'></a>
 
@@ -30,7 +30,7 @@
 [[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
 
 <script>
-var end = new Date('23 Jul 2011');
+var end = new Date('23 Jul 2011 16:00:00');
 
 var _second = 1000;
 var _minute = _second * 60;
