@@ -1,0 +1,4 @@
+[[!meta title="pages tagged updates"]]
+
+[[!inline pages="tagged(updates)" actions="no" archive="yes"
+feedshow=10]]
