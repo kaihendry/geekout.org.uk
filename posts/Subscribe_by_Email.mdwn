@@ -3,3 +3,7 @@ You can use the links below to sign up to receive an email of our updates once e
 <a href="http://feedburner.google.com/fb/a/mailverify?uri=PlanetGeekout&amp;loc=en_US">I want to get everything!</a>
 
 <a href="http://feedburner.google.com/fb/a/mailverify?uri=TeamGeekout&amp;loc=en_US">I just want to get blog posts.</a>
+
+Alternatively join our <a href="http://www.facebook.com/group.php?gid=219322734774041">Geekout Facebook group</a> which will also get all our updates.
+
+[[!tag social updates subscribe]]
