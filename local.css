@@ -4,7 +4,7 @@
 
 .pageheader { background-repeat: repeat-x }
 
-#content img
+.inlinecontent img
 {
 	border: 1px solid #99BB99;
 	margin: 5px;
