@@ -4,7 +4,7 @@
 
 .pageheader { background-repeat: repeat-x }
 
-.content img, blockquote
+.content img
 {
 	border: 1px solid #99BB99;
 	margin: 5px;
@@ -13,5 +13,14 @@
 
 blockquote p
 {
-	margin-bottom: 0;
+	margin-bottom: 0.3em;
+}
+
+blockquote
+{
+    border-color: #BBBB88;
+    border-style: solid;
+    border-width: 2px;
+    margin: 2em;
+    padding: 2em;
 }
