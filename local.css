@@ -3,3 +3,15 @@
 .actions:hover { opacity: 1 }
 
 .pageheader { background-repeat: repeat-x }
+
+.content img, .blockquote
+{
+	border: 1px solid #99BB99;
+	margin: 5px;
+	padding: 4px; 
+}
+
+.blockquote p
+{
+	margin-bottom: 0;
+}
