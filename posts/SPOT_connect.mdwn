@@ -20,7 +20,7 @@ finds a window to be sent (perhaps).  There is no confirmation on the client
 itself whether it sent or not, only on the puck itself, when it blinks red,
 meaning that it failed...
 
-Later in Steyning, I managed to send a couple of messages (to **great relief**,
+Later in Steyning, I managed to send a couple of messages (to **great relief**),
 though they did not appear on a "Public shared map" I created:
 
 <http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q>
