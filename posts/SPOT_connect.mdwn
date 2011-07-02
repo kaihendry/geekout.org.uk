@@ -1,0 +1,27 @@
+Bought a [SPOT connect](http://www.findmespot.com/en/index.php?cid=116) _geek
+gadget_ so that you can track our progress and we can post short <41char
+updates!
+
+I bought the device from a UK distributor [Global Telesat
+Communications](http://www.globaltelesat.co.uk/) and I found it a tough
+decision to purchase, because the hardware costs 150GBP and the upkeep is 100+
+GBP a year plus extras. Extras like a SOS extraction service I've yet to figure
+out.
+
+After receiving the device which I've seen called _puck_ in London, I tried it
+and I couldn't get a message out. The Android application was a little
+disappointing, and to actually send a message doesn't seem instant. It seems to
+queue up and sends it over a ~10 minute interval... So the whole experience
+from the Spot connect Android client is a bit ridiculous. Watch bluetooth sap
+the Nexus S's battery until the message finds a window to be sent (perhaps).
+There is no confirmation on the client itself whether it sent or now, only on
+the puck itself, when it blinks red.
+
+Later in Steyning, I managed to send a couple of messages (to **great relief**,
+though they did not appear on a "Public shared map" I created:
+
+<http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q>
+
+So far the SPOT service does seems quite unpolished, though I hope their
+customer services will come through. My next biggest concern is how long the
+batteries work. 2AA batteries will track Team Geekout for how long ?
