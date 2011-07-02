@@ -25,7 +25,7 @@ though they did not appear on a "Public shared map" I created:
 
 <http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q>
 
-So far the SPOT service does seems quite unpolished, though I hope their
+So far the SPOT service does seem quite unpolished, though I hope their
 customer services will come through. My next biggest concern is how long the
 batteries work. 2x[AA batteries](http://en.wikipedia.org/wiki/AA_battery) will
 track [[Team Geekout|about]] for how long ?
