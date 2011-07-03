@@ -80,6 +80,7 @@ Stuff you could rob from us if you are a bully.
 * Petrol tank leak fix stuff
 * Radiator leak fix stuff
 * Hacksaw
+* Scissors
 
 ## Spares
 
