@@ -17,10 +17,10 @@ Stuff you could rob from us if you are a bully.
 # Gadgets
 
 * Car power socket to 2 Micro USBs ✓
-* [Go Pro](http://gopro.com/cameras/hd-motorsports-hero-camera/) ♋
-* Etrex GPS ✓ with a [cable to power it](http://www.nomad.ee/micros/etrex.shtml) -- used for bread crumb trail
+* [Go Pro](http://gopro.com/cameras/hd-motorsports-hero-camera/) ◯
+* Etrex GPS ✓
 * Tomtom ♊ from my Dad
-* [Spot connect](http://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288) ♊
+* [Spot connect](http://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288) ✓
 * Battery for charging our geek devices <https://powertraveller.com> ✓
 * [First aid kit](http://www.flickr.com/photos/hendry/5856623406) ◯ ✓
 
@@ -38,7 +38,7 @@ Stuff you could rob from us if you are a bully.
 * CB radio ✓
 * 4-way cigar lighter splitter ✓
 * Haynes manual ✓
-* Petrol can ♋
+* Petrol can ◯
 * Oil ♋
 * Water bottles - Nalgene 500ml ✓, 5L water pack ◯, 3L water pack with tube
 * Lights
@@ -79,8 +79,8 @@ Stuff you could rob from us if you are a bully.
 * WD40
 * Petrol tank leak fix stuff
 * Radiator leak fix stuff
-* Hacksaw
-* Scissors
+* Hacksaw ◯
+* Scissors ✓
 
 ## Spares
 
