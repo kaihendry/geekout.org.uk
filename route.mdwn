@@ -4,13 +4,13 @@
 
 [Our mapped route](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=211124371697914849936.00049cb5a8407f88469d0&z=3)
 
-You add overlay the [UNESCO KML](http://whc.unesco.org/en/list/kml/) in order to see nearby UNESCO points.
+You overlay the [UNESCO KML](http://whc.unesco.org/en/list/kml/) in order to see nearby UNESCO points.
 
 [Official Mongol rally route planner](http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=212571189677464492406.00049b245c749fc85de9a&ll=50.736455,52.382813&spn=44.897506,136.933594&z=3&source=embed)
 
 ## UK
 
-Start is at Goodwood at the [UK festival of Slow](http://mongolrally10.theadventurists.com/index.php?page=festival-of-slow-overview).
+Start is at Goodwood at the [UK festival of Slow](http://mongolrally10.theadventurists.com/index.php?page=festival-of-slow-overview), should be fun, come along and see us off!
 
 Saturday 23 July 2011, Folkestone to Calais (booking reference 31592819):
 
@@ -56,7 +56,7 @@ Jukka might be there or at least can provide some advice.
 
 Ask Andrei, a coastal resort?
 
-* <http://whc.unesco.org/en/list/588> -- 2 day boat trip?
+* <http://whc.unesco.org/en/list/588> - 2 day boat trip?
 
 ## Bulgaria
 
@@ -103,7 +103,7 @@ No visa required? REALLY?
 ## Uzbekistan
 
 * <http://whc.unesco.org/en/list/602>
-* <http://whc.unesco.org/en/list/543> -- bit out the way
+* <http://whc.unesco.org/en/list/543> - bit out the way
 * <http://whc.unesco.org/en/list/885>
 * <http://whc.unesco.org/en/list/603>
 * <http://whc.unesco.org/en/list/1141>
