@@ -4,9 +4,9 @@
 
 [Our mapped route](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=211124371697914849936.00049cb5a8407f88469d0&z=3)
 
-[Official Mongol rally route planner](http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=212571189677464492406.00049b245c749fc85de9a&ll=50.736455,52.382813&spn=44.897506,136.933594&z=3&source=embed)
+You add overlay the [UNESCO KML](http://whc.unesco.org/en/list/kml/) in order to see nearby UNESCO points.
 
-[Visa applications](/visa-application.png)
+[Official Mongol rally route planner](http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=212571189677464492406.00049b245c749fc85de9a&ll=50.736455,52.382813&spn=44.897506,136.933594&z=3&source=embed)
 
 ## UK
 
@@ -42,6 +42,8 @@ Maybe [couch surf](http://www.couchsurfing.org/search#location=%7B%22state_id%22
 
 ## Moldova
 
+* <http://whc.unesco.org/en/list/1187>
+
 * Chisinau (stay the night)
 
 ## Ukraine again
@@ -54,7 +56,12 @@ Jukka might be there or at least can provide some advice.
 
 Ask Andrei, a coastal resort?
 
+* <http://whc.unesco.org/en/list/588> -- 2 day boat trip?
+
 ## Bulgaria
+
+* <http://whc.unesco.org/en/list/43>
+* <http://whc.unesco.org/en/list/217>
 
 * Plan for a night in Burgas ?
 
@@ -64,7 +71,19 @@ Ask Andrei, a coastal resort?
 
 2-3 days, western roads are evidently good
 
+* <http://whc.unesco.org/en/list/614>
+* <http://whc.unesco.org/en/list/377>
+* <http://whc.unesco.org/en/list/357>
+* <http://whc.unesco.org/en/list/358>
+* <http://whc.unesco.org/en/list/448>
+
 ## Iran
+
+* <http://whc.unesco.org/en/list/1262>
+* <http://whc.unesco.org/en/list/1346>
+* <http://whc.unesco.org/en/list/1345>
+* <http://whc.unesco.org/en/list/1077>
+* <http://whc.unesco.org/en/list/1188>
 
 Take it slow, there are **dangerous** roads
 
@@ -75,11 +94,19 @@ Visa is valid for 3 months from date of issue. Visa Machine can only get the "au
 
 ## Turkmenistan
 
+* <http://whc.unesco.org/en/list/886>
+
 Start of <http://en.wikipedia.org/wiki/M41_highway>
 
 No visa required? REALLY?
 
 ## Uzbekistan
+
+* <http://whc.unesco.org/en/list/602>
+* <http://whc.unesco.org/en/list/543> -- bit out the way
+* <http://whc.unesco.org/en/list/885>
+* <http://whc.unesco.org/en/list/603>
+* <http://whc.unesco.org/en/list/1141>
 
 15 day visa
 
@@ -95,12 +122,17 @@ No visa required? REALLY?
 
 ## Kyrgyzstan
 
+* <http://whc.unesco.org/en/list/1230>
+
 One month visa, valid from stated entry date.
 
 * Entry 2011/08/12
 * Exit 2011/09/01
 
 ## Kazakhstan
+
+* <http://whc.unesco.org/en/list/1103> - bit out the way
+* <http://whc.unesco.org/en/list/1145>
 
 Stated entry point: Merke. See: http://visamachine.theadventurists.com/index.php?mode=visamachine&visa=205
 
@@ -113,6 +145,8 @@ Where exactly is the border crossings involved with Kazakhstan to Mongolia via R
 
 ## Russia
 
+* <http://whc.unesco.org/en/list/768>
+
 30 day visa.
 
 * Entry 2011/08/20
@@ -121,6 +155,9 @@ Where exactly is the border crossings involved with Kazakhstan to Mongolia via R
 Maybe visit Novossibirsk ?
 
 ## Mongolia
+
+* <http://whc.unesco.org/en/list/769>
+* <http://whc.unesco.org/en/list/1081>
 
 * Entry 2011/09/01
 * Exit 2011/09/30
