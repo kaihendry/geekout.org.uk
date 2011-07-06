@@ -5,4 +5,3 @@
 * [[!aggregate expirecount=25 name="kai's audioboos" feedurl="http://audioboo.fm/users/103429/boos.rss" url="http://audioboo.fm/users/103429"]]
 * [[!aggregate expirecount=25 name="kai's flickr" feedurl="http://api.flickr.com/services/feeds/photos_public.gne?id=16105436@N00&lang=en-us&format=rss_200" url="http://www.flickr.com/photos/hendry/"]]
 * [[!aggregate expirecount=25 name="jamie's flickr" feedurl="http://api.flickr.com/services/feeds/photos_public.gne?id=77788903@N00&lang=en-us&format=rss_200" url="http://www.flickr.com/photos/jamiekitson/"]]
-*
