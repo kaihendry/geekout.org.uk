@@ -4,6 +4,14 @@
 
 .pageheader { background-repeat: repeat-x }
 
+div.recentchanges img
+{
+	border-style: none;
+	margin: 0;
+	padding: 0; 
+}
+
+
 #content img
 {
 	border: 1px solid #99BB99;
