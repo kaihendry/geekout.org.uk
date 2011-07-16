@@ -21,9 +21,10 @@ Stuff you could rob from us if you are a bully.
 # To Do
 
 * Print this list out
-* Stickers
+* Stick on stickers
 * Remove hub from shock ◯
-* Solder lighter extension
+* Solder lighter extension ◯
+* Send reminder/contact email
 
 # Kai
 
