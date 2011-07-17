@@ -1,0 +1,4 @@
+[[!meta title="pages tagged vicky&alice"]]
+
+[[!inline pages="tagged(vicky__38__alice)" actions="no" archive="yes"
+feedshow=10]]
