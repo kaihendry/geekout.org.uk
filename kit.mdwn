@@ -59,6 +59,7 @@
 * ebooks
 * MP3s
 * Headphones?
+* USB sticks
 
 ## Car
 
