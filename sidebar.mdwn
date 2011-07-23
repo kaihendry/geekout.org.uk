@@ -2,9 +2,7 @@
 
 ### [[About Jamie & Kai, team Geekout|About]]
 
-### Time till launch
-
-<h3 id="countdown"></h3>
+### [Where we are](http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q)
 
 ### [[Route and Itinerary|Route]]
 
@@ -28,29 +26,3 @@
 
 [[Tags]]:
 [[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
-
-<script>
-var end = new Date('23 Jul 2011 16:00:00');
-
-var _second = 1000;
-var _minute = _second * 60;
-var _hour = _minute * 60;
-var _day = _hour *24
-
-function showRemaining()
-{
-    var now = new Date();
-    var distance = end - now;
-    var days = Math.floor(distance / _day);
-    var hours = Math.floor( (distance % _day ) / _hour );
-    var minutes = Math.floor( (distance % _hour) / _minute );
-    var seconds = Math.floor( (distance % _minute) / _second );
-
-    document.getElementById('countdown').innerHTML = 'Days: ' + days + '<br />';
-    document.getElementById('countdown').innerHTML += 'Hours: ' + hours+ '<br />';
-    document.getElementById('countdown').innerHTML += 'Minutes: ' + minutes+ '<br />';
-    document.getElementById('countdown').innerHTML += 'Seconds: ' + seconds+ '<br />';
-}
-
-setInterval(showRemaining, 1000);
-</script>
