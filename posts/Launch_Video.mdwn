@@ -1,0 +1,4 @@
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/Kb_c5CRJfM4" frameborder="0"></iframe>
+Pete made this excellent video and slideshow of the start of the Mongol Rally. Thanks Pete!
+
+[[!tag video start launch pete]]
