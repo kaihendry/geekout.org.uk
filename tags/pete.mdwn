@@ -1,0 +1,4 @@
+[[!meta title="pages tagged pete"]]
+
+[[!inline pages="tagged(pete)" actions="no" archive="yes"
+feedshow=10]]
