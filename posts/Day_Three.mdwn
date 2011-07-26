@@ -22,9 +22,9 @@ Talking of Iran, we're already finding the car quite hot, Kai's thermometer
 reading around 27C and the air from the vents seems to be constantly warm,
 although maybe that's just the ambient temperature.
 
-Miles: 798.4
-Time: 2 days, 23 hours
-McDonald's visits: 2
-Accidents: 0
+* Miles: 798.4
+* Time: 2 days, 23 hours
+* McDonald's visits: 2
+* Accidents: 0
 
 Over and out.
