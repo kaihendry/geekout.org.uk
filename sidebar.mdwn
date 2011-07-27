@@ -10,6 +10,8 @@
 
 <iframe src="http://www.google.com/latitude/apps/badge/api?user=-1288002110024858896&type=iframe&maptype=roadmap" width="180" height="300" frameborder="0"></iframe>
 
+### Time So Far
+
 <h3 id="countup"></h3>
 
 <script>
