@@ -10,6 +10,36 @@
 
 <iframe src="http://www.google.com/latitude/apps/badge/api?user=-1288002110024858896&type=iframe&maptype=roadmap" width="180" height="300" frameborder="0"></iframe>
 
+<h3 id="countup"></h3>
+
+<script>
+
+var start = new Date('23 Jul 2011 15:00:00');
+
+var _second = 1000;
+var _minute = _second * 60;
+var _hour = _minute * 60;
+var _day = _hour *24
+
+function showRemaining()
+{
+    var now = new Date();
+    var distance = now - start;
+    var days = Math.floor(distance / _day);
+    var hours = Math.floor( (distance % _day ) / _hour );
+    var minutes = Math.floor( (distance % _hour) / _minute );
+    var seconds = Math.floor( (distance % _minute) / _second );
+
+    document.getElementById('countup').innerHTML = 'Days: ' + days + '<br />';
+    document.getElementById('countup').innerHTML += 'Hours: ' + hours+ '<br />';
+    document.getElementById('countup').innerHTML += 'Minutes: ' + minutes+ '<br />';
+    document.getElementById('countup').innerHTML += 'Seconds: ' + seconds+ '<br />';
+
+}
+
+setInterval(showRemaining, 1000);
+</script>
+
 ### [[Place a bet on how far we get|posts/non-sponsorship]]
 
 ### <a href="/posts/Subscribe_by_Email">Subscribe by Email</a>
