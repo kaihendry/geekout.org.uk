@@ -1,11 +1,11 @@
 Yesterday was a tough day at the office. Here is how it went wrong:
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/6jiWq6fPyaM" frameborder="0"></iframe>
+<iframe width="560" height="349" src="http://www.youtube.com/embed/6jiWq6fPyaM" frameborder="0" allowfullscreen></iframe>
 
 [The bridge that Google maps told us to
 cross](http://maps.google.co.uk/maps?ll=45.90521,30.123954) and [the new bridge
 we should have crossed](http://maps.google.co.uk/maps?ll=45.880942,30.124769).
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/TWCtZ0en5s" frameborder="0"></iframe>
+<iframe width="560" height="349" src="http://www.youtube.com/embed/-TWCtZ0en5s" frameborder="0" allowfullscreen></iframe>
 
 The other half of the bridge to come ...
