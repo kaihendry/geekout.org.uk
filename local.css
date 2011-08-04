@@ -8,15 +8,15 @@
 {
 	border-style: none;
 	margin: 0;
-	padding: 0; 
+	padding: 0;
 }
 
 
-#content img
+#content img[title]
 {
 	border: 1px solid #99BB99;
 	margin: 5px;
-	padding: 4px; 
+	padding: 4px;
 }
 
 blockquote p
@@ -26,9 +26,9 @@ blockquote p
 
 blockquote
 {
-    border-color: #BBBB88;
-    border-style: solid;
-    border-width: 2px;
-    margin: 1em;
-    padding: 1em;
+	border-color: #BBBB88;
+	border-style: solid;
+	border-width: 2px;
+	margin: 1em;
+	padding: 1em;
 }
