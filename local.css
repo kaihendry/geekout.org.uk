@@ -4,7 +4,7 @@
 
 .pageheader { background-repeat: repeat-x }
 
-#content div.recentchanges img
+#content img[src*='flickr']
 {
 	border-style: none;
 	margin: 0;
