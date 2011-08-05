@@ -1,4 +1,4 @@
-<a href="http://www.flickr.com/photos/jamiekitson/6008557642/" title="DSC_8585 by Jamie Kitson, on Flickr"><img src="http://farm7.static.flickr.com/6004/6008557642_9a60a54644_z.jpg" width="640" height="424" alt="DSC_8585"></a>
+<iframe width="560" height="349" src="http://www.youtube.com/embed/U0sJxuT2txQ" frameborder="0" allowfullscreen></iframe>
 
 Bulgaria was surprisingly OK. For me it's a strange mix of Russian (they
 understand it, unlike the Romanians seemingly) and France (cute rustic
@@ -24,8 +24,11 @@ incident. Nuts. [Good driving, huh? - Jamie]
 The 50EUR per night twin room hostel in Istanbul's Sultanahmet is a bit poor
 value for money to say the least.  There seems to be a chasm between "hostel"
 and "hotel" and it's really hard to bridge it. I am not interested really in
-talking with tourists from UK and the West [unless they're good looking]. I'm more keen to chat with locals.
-A decent wifi Internet connection would be nice too!
+talking with tourists from UK and the West [unless they're good looking]. I'm
+more keen to chat with locals.  A decent wifi Internet connection would be nice
+too!
+
+<a href="http://www.flickr.com/photos/jamiekitson/6008557642/" title="In Istanbul, not Constantinople"><img src="http://farm7.static.flickr.com/6004/6008557642_9a60a54644_z.jpg" width="640" height="424"></a>
 
 Today the weather is pretty hot, though I've got the Blue Mosque, the
 [bath](http://www.flickr.com/photos/hendry/6007851939/) and the Sofia Mosque
@@ -41,13 +44,22 @@ hard compared to London.
 Must thank Ruth who I contacted to help find some accommodation in Turkey for
 us. I did another [shout
 out](http://twitter.com/#!/kaihendry/status/99104332758265857) for help
-tomorrow, wonder if anyone gets it. I guess we should just chance it, but it
-could easily cost us a lot of time. I'm keen to spend 2-3 days in Tehran.
+tomorrow, wonder if anyone gets it (Folks did!!
+[Thank](http://twitter.com/#!/TurkeyTourismUK/status/99108049226186755)
+[you](http://twitter.com/#!/ED8617/status/99145705771376640) ). I guess we
+should just chance it, but it could easily cost us a lot of time. I'm keen to
+spend 2-3 days in Tehran.
 
 I've had the epiphany that Istanbul is well... the centre of the world. They
 way it bridges continents and the understated Black and Aegean sea. It's just
 insanely strategic. I want Turkey in the EU. :)
 
-\* Jamie: After going to multiple bookshops and drawing a complete blank on Iranian maps I was advised by a tourist agency to try the Iranian Consulate. I pictured an office block, but arriving I found a gated community. Nervous I asked the Turkish policeman on guard whether it was ok to bother them, he said yes and upon entering I found a small man, who understood enough English to give me a map of attractions. It doesn't have any roads on it but it's better than nothing.
+\* Jamie: After going to multiple bookshops and drawing a complete blank on
+Iranian maps I was advised by a tourist agency to try the Iranian Consulate. I
+pictured an office block, but arriving I found a gated community. Nervous I
+asked the Turkish policeman on guard whether it was alright to bother them, he
+said yes and upon entering I found a small man, who understood enough English
+to give me a map of attractions. It doesn't have any roads on it but it's
+better than nothing.
 
-[[tag kai turkey istanbul]]
+[[!tag kai turkey Istanbul]]
