@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Istanbul"]]
+
+[[!inline pages="tagged(Istanbul)" actions="no" archive="yes"
+feedshow=10]]
