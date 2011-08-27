@@ -6,6 +6,8 @@
 
 ### Where we are
 
+[Google Map](http://hatz.ch/geekout/)
+
 [Where we are from SPOT](http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q) - best when we don't have mobile coverage
 
 <iframe src="http://www.google.com/latitude/apps/badge/api?user=-1288002110024858896&type=iframe&maptype=roadmap" width="180" height="300" frameborder="0"></iframe>
