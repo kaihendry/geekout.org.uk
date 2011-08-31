@@ -35,8 +35,9 @@ blockquote
 	padding: 1em;
 }
 
-.title
+.pageheader .header .title
 {
 	display: inline-block;
 	font-size: 2em;
+	margin-top: 0.25em;
 }
