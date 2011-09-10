@@ -14,17 +14,14 @@
 
 ### Time Taken
 
-<h3 id="countup">
 Weeks: 6<br>
 Days: 4<br>
 Hours: 18<br>
 Minutes: 57<br>
-</h3>
 
 ### Distance Travelled
 
-12,566 miles
-20,223 km
+12,566 miles / 20,223 km
 
 ### [[Place a bet on how far we get|posts/non-sponsorship]]
 
