@@ -11,29 +11,29 @@ ie, Bribes. The best technique seems to be waiting for a) official boredom, b) m
 
 <tr>
 <td>Ukraine</td>
-<td>E100</td>
-<td>E30</td>
+<td>€100</td>
+<td>€30</td>
 <td>Suposedly doing 80kph in a 50kph zone. Possibly true.</td>
 <tr>
 
 <tr>
 <td>Ukraine</td>
-<td>E40</td>
-<td>E20</td>
+<td>€40</td>
+<td>€20</td>
 <td>Not stopping at a stop sign. The trouble was there was a massive truck in the way of the sign, if there was a sign.</td>
 <tr>
 
 <tr>
 <td>Iran</td>
-<td>Multiool (E30)</td>
+<td>Multiool (€30)</td>
 <td>T-shirt and tea</td>
 <td>Official at the border kept asking for gifts. Wished we hadn't given him anything after bellow.</td>
 <tr>
 
 <tr>
 <td>Iran</td>
-<td>E20</td>
-<td>E10</td>
+<td>€20</td>
+<td>€10</td>
 <td>Burly man at the border who we didn't want to piss off too much.</td>
 <tr>
 
@@ -95,7 +95,7 @@ ie, Bribes. The best technique seems to be waiting for a) official boredom, b) m
 
 <tr>
 <td>Tajikistan</td>
-<td>Up to E100 down to $20</td>
+<td>Up to €100 down to $20</td>
 <td>$10</td>
 <td>Police check point just looking for a reason to take money from us. First they made something up about our visas. We were patient and explained again and again that our visas were ok. When they got bored of that they let Mud-Lab go and started on me and my invalid passport. They were just insisting on $20 when a military guy walked passed outside and they suddenly took our $10 and let us go. I kind of wished I'd snatched the $10, run outside and waved it in their face from the window. But I didn't.</td>
 <tr>
@@ -162,6 +162,13 @@ ie, Bribes. The best technique seems to be waiting for a) official boredom, b) m
 <td>$10</td>
 <td>$10</td>
 <td>The guy who searched our car (with a very cute dog in a very cute coat) just asked, and we just gave.</td>
+<tr>
+
+<tr>
+<td>Total</td>
+<td>About $310</td>
+<td>About $180</td>
+<td></td>
 <tr>
 
 </table>
