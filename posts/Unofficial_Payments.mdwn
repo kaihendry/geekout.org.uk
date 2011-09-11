@@ -1,4 +1,4 @@
-ie, Bribes. The best technique seems to be waiting for a) official boredom, b) more money making opertunties to turn up, eg, tourists c) somebody higher up in the chain to come along, eg, military vs police.
+ie, Bribes. The best technique seems to be waiting for a) official boredom, b) more money making opportunities to turn up, eg, tourists c) somebody higher up in the chain to come along, eg, military vs police.
 
 <table>
 
@@ -23,7 +23,7 @@ ie, Bribes. The best technique seems to be waiting for a) official boredom, b) m
 <td>Not stopping at a stop sign. The trouble was there was a massive truck in the way of the sign, if there was a sign.</td>
 <tr>
 
-<<tr>
+<tr>
 <td>Iran</td>
 <td>Multiool (E30)</td>
 <td>T-shirt and tea</td>
@@ -58,7 +58,7 @@ ie, Bribes. The best technique seems to be waiting for a) official boredom, b) m
 <td>This was actually official, I even got a receipt! But it was still rediculous. I was fined for driving too quickly through the "disinfectant" at the border. There was no way I caused all the puddles that they were pointing at, tbh, I think the team that went before me might have done it, but we both got fined. We didn't stop at the stop sign, a recurring theme.</td>
 <tr>
 
-<<tr>
+<tr>
 <td>Uzbekistan</td>
 <td>?</td>
 <td>£1</td>
@@ -144,10 +144,24 @@ ie, Bribes. The best technique seems to be waiting for a) official boredom, b) m
 <tr>
 
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Russia</td>
+<td>100 Rubles I think, about $3</td>
+<td>0</td>
+<td>Immigration officer just asked as we were leaving, we acted confused and after a few minutes let us go.</td>
+<tr>
+
+<tr>
+<td>Mongolia</td>
+<td>$5</td>
+<td>100 Rubles, about $3</td>
+<td>For disinfecting the car. Other teams said they had to pay $1 and got a receipt.</td>
+<tr>
+
+<tr>
+<td>Mongolia</td>
+<td>$10</td>
+<td>$10</td>
+<td>The guy who searched our car (with a very cute dog in a very cute coat) just asked, and we just gave.</td>
 <tr>
 
 </table>
