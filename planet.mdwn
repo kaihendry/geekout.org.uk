@@ -2,8 +2,6 @@
 
 * [[!aggregate expirecount=25 name="Jamie on youtube" feedurl="http://gdata.youtube.com/feeds/base/users/jamiekitson/uploads?alt=rss" url="http://www.youtube.com/user/jamiekitson"]]
 * [[!aggregate expirecount=25 name="kai on youtube" feedurl="http://gdata.youtube.com/feeds/base/users/kaihendry/uploads?alt=rss" url="http://www.youtube.com/user/kaihendry"]]
-* [[!aggregate expirecount=25 name="kai on twitter" feedurl="http://twitter.com/statuses/user_timeline/14742294.rss" url="http://twitter.com/kaihendry"]]
-* [[!aggregate expirecount=25 name="jamie on twitter" feedurl="http://twitter.com/statuses/user_timeline/14711255.rss" url="http://twitter.com/jamiekitson"]]
 * [[!aggregate expirecount=25 name="kai's audioboos" feedurl="http://audioboo.fm/users/103429/boos.rss" url="http://audioboo.fm/users/103429"]]
 * [[!aggregate expirecount=25 name="kai's flickr" feedurl="http://api.flickr.com/services/feeds/photos_public.gne?id=16105436@N00&lang=en-us&format=rss_200" url="http://www.flickr.com/photos/hendry/"]]
 * [[!aggregate expirecount=25 name="jamie's flickr" feedurl="http://api.flickr.com/services/feeds/photos_public.gne?id=77788903@N00&lang=en-us&format=rss_200" url="http://www.flickr.com/photos/jamiekitson/"]]
