@@ -2,15 +2,13 @@
 
 ### [[About Jamie & Kai, team Geekout|About]]
 
-### [[Route and Itinerary|Route]] via Iran & the stans
+### [[Predicted Route and Itinerary|Route]] via Iran & the stans
 
-### Where we are
+### Actual Route
 
 [Google Map](http://hatz.ch/geekout/)
 
-[Where we are from SPOT](http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q) - best when we don't have mobile coverage
-
-<iframe src="http://www.google.com/latitude/apps/badge/api?user=-1288002110024858896&type=iframe&maptype=roadmap" width="180" height="300" frameborder="0"></iframe>
+[Where we were from SPOT](http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q) - best when we don't have mobile coverage
 
 ### Time Taken
 
@@ -23,17 +21,11 @@ Minutes: 57<br>
 
 12,566 miles / 20,223 km
 
-### [[Place a bet on how far we get|posts/non-sponsorship]]
-
-### <a href="/posts/Subscribe_by_Email">Subscribe by Email</a>
-
 ### [[Recent Comments|comments]]
 
 <a href='https://www.justgiving.com/teams/Geekout' alt='JustGiving - Sponsor us now!' target='_blank'><img src='http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge9.gif' width='120' height='90'></a>
 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 18em; height:80px"></iframe>
-
-
 
 # [[Archives]]
 
