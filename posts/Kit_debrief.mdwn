@@ -1,0 +1,145 @@
+If I can scan the [[kit]] list of what we brought, I thought I should extol
+which was good and what was a waste of space.
+
+# The good
+
+## Tomtom & Google Maps
+
+We cheated. Team Geekout relied heavily on GPS for navigation during the Mongol
+Rally. The Tomtom saved us hours in Europe until it stopped working as we
+entered Ukraine. From that point on Google maps helped us, except for a fairly
+[[entertaining instance|The_Perils_of_using_Google_maps]] in Ukraine.
+
+Otherwise we didn't use it for turn by turn navigation, just as a guide to
+ensure we were going to the right direction on the right road. The new-ish
+Google maps pre-cache map area looked cool, but since you can't search offline
+I must say it sucked. Especially in big crazy cities like Tehran.
+
+There are lots of annoying seething bugs in Google maps, like when you
+accidentally press the back button and lose current navigation. So sometimes I
+would switch to using the Iphone4's Google maps application, or use both and as
+both we somehow have different levels of cache of the same road. Sad.
+
+## Spot connect
+
+Despite my initial apprehensions, the [SPOT
+connect](http://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288)
+actually worked rather well. The device demands [lithium
+batteries](http://faq.findmespot.com/index.php?action=showEntry&data=1330)
+which are frankly impossible to source. Normal Alkaline Duracell lasted about 2
+working days and cheap Chinese ones, less than a day. Which was very annoying.
+It does have a mini-USB slot underneath it and looks like it could be powered
+by it, but it didn't seem to work frustratingly.
+
+Despite the clunky client and UI, the SPOT tracklog worked and we now have a
+fantastic [tracklog of our journey](http://hatz.ch/geekout/). Was that worth
+300GBP and the fact one could collate GPS tracklogs? I think so, because it
+kept our followers engaged in realtime. It was also handy in the very rare
+instances our mobiles or Jamie's kindle didn't work to send a little 41
+character message out.
+
+## The Kindle
+
+Jamie has talked about this before in numerous tweets and FB updates. Amazingly
+this device kept him connected in almost every country except Turkmenistan and
+Mongolia IIRC. Incredibly useful. I will purchase the next update myself.
+
+## Moo business cards
+
+Could have printed my mobile number though, otherwise super useful. Expensive
+unreliable mobile calls were the no. 1 teams had to communicate unfortunately.
+
+## Vegabond Systems Source Widepac Water bladder 3L in the micra
+
+I love this bladder, although Jamie correctly pointed out we could just use
+water bottles. I liked it because:
+
+* We could hang it off the headrest behind the passenger seat and have the tube
+sit around the handbrake, in easy reach of hydration.
+* One could hydrate while keeping both hands on the steering wheel and have clear vision
+* We kept it in hot countries in a cooler box with ice, so it delivered cool water all day (You can actually freeze the whole damn thing)
+* 3L typically holds two plastic water bottles and it's less unsightly than keeping bottle upon bottle in the car
+
+It did exhibit problems after hard use. Later in the car journey it fealt a bit
+gassy, as we sucked there seemed to be air coming in from somewhere. Near the
+very end of the journey the [Widepac started to
+leak](http://www.flickr.com/photos/hendry/6167704999/). :(
+
+## Korean cooker
+
+It amazes me how many different camping stove non-standards there are. I
+recommend the Korean gas cooker. It's not great if you are hiking since it fits
+in a bulky looking briefcase. Though if you are in a car, it's perfect. The
+butane gas canisters are the easiest fuel source to obtain anywhere practically
+anywhere in the world.
+
+I must also mention that our Korean Nong Shim ramen [we
+bought](http://www.flickr.com/photos/hendry/5872491113/), esp. with an egg is a
+much better meal than some of this dehydrated protein ration packs we saw other
+teams use.
+
+# The bad
+
+## [Ortlieb 10L water bladder](http://www.ortliebusa.com/CartGenie/prod-66.htm)
+
+I wanted to love the [10L Ortlieb water
+bladder](http://www.flickr.com/photos/hendry/5973382943/) I bought in Dresden.
+Unfortunately the tap became far too stiff and it leaked. The rubber ring was
+far too easy to dislodge I suspect. Also the straps could be far more
+comfortable to carry. Pity it sucked compared to my wonderful Ortlieb pannier
+which I took with my on the Mongol rally for keeping my documents and laptop in
+shape!
+
+## Sony ICF-7600D
+
+I was in uproar when I heard BBC were suspending shortwave broadcasts, though
+honestly trying to use my shortwave kit whilst Jamie was say reading the
+Guardian on the Kindle, made me think... maybe the world has moved on. I did
+catch [FOOC](http://www.bbc.co.uk/fromourowncorrespondent/) once in Iran, but I
+could have downloaded the podcast in a number of previous opportunities.
+
+Shortwave broadcasts still work in the Afghanistan region and I wish I could
+jettison my kit there somehow.
+
+And going back to Iran, their Internet needs improving... I wonder if
+[Tooway](http://www.tooway.com/) could maybe made to work in Tehran. That would
+be cool.
+
+## Iphone4
+
+Love the quality of video and how easy it is to mail off photographs on the
+move. It has some bad sides, like how do I now update the "Standard Definition"
+video uploads with "High Definition" videos now that I'm on a better internet
+connection? Suck...
+
+# The ugly
+
+## PowerMonkey Explorer
+
+I bought the "PowerMonkey Explorer" which I was excited about at first and it
+stopped working on day 2. Although <emily@powertraveller.com> provided good
+customer service, she could have told me: "Send to this address and we will
+re-imburse you". It takes two backpack pouches and I ended up carrying it
+needlessly for 20k kms, which is madness. I seeth with hate when I accidentally
+open one of my pouches and all it's bit and bobs fall out. The device was
+completely unnecessary since we had a 2 Slot micro-USB car charger anyway.
+Avoid!
+
+## CB radio
+
+This 50GBP kit I ended up giving away in Ulaanbatar because I couldn't sell it.
+We used it once with Rick on the road out of Goodwood. Since that we found no
+other team with such communication kit. It's a far better idea to buy good
+quality small walky talkies.
+
+## Jerry can
+
+You seriously don't need a jerry can on the Mongol rally. Petrol in a can
+expands and it's often pressurized when you open it. The vapour can easily
+ignite and can leave you in a very dangerous situation!
+
+# Spare shock absorber
+
+We lugged around a spare Micra shock absorber. Wtf Jamie. WTF? :) Spares like
+the air filter were unnecessary as you can easily knock the dust out of a
+filter on the move.
