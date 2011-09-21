@@ -33,10 +33,19 @@ by it, but it didn't seem to work frustratingly.
 
 Despite the clunky client and UI, the SPOT tracklog worked and we now have a
 fantastic [tracklog of our journey](http://hatz.ch/geekout/). Was that worth
-300GBP and the fact one could collate GPS tracklogs? I think so, because it
+300GBP despite fact one could collate GPS tracklogs?! I think so... because it
 kept our followers engaged in realtime. It was also handy in the very rare
 instances our mobiles or Jamie's kindle didn't work to send a little 41
 character message out.
+
+## Our bloggin platform <http://www.branchable.com/>
+
+Many other Mongol rally teams failed to get past one or two blogs. Jamie and I
+blogged continuously through the trip... How? Without an internet connection?
+We used **git** to commit blogs, and when we had internet in the briefest of
+moments we pushed and our readership got to enjoy our updates! Other blogging
+platforms basically assume you are on the Internet whilst writing the post,
+which sucks. Branchable rocks.
 
 ## The Kindle
 
@@ -70,8 +79,8 @@ leak](http://www.flickr.com/photos/hendry/6167704999/). :(
 It amazes me how many different camping stove non-standards there are. I
 recommend the Korean gas cooker. It's not great if you are hiking since it fits
 in a bulky looking briefcase. Though if you are in a car, it's perfect. The
-butane gas canisters are the easiest fuel source to obtain anywhere practically
-anywhere in the world.
+butane gas canisters are the easiest fuel source to obtain practically anywhere
+in the world.
 
 I must also mention that our Korean Nong Shim ramen [we
 bought](http://www.flickr.com/photos/hendry/5872491113/), esp. with an egg is a
