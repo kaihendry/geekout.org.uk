@@ -13,12 +13,12 @@ entered Ukraine. From that point on Google maps helped us, except for a fairly
 Otherwise we didn't use it for turn by turn navigation, just as a guide to
 ensure we were going to the right direction on the right road. The new-ish
 Google maps pre-cache map area looked cool, but since you can't search offline
-I must say it sucked. Especially in big crazy cities like Tehran.
+I must say it sucked. Especially in big crazy cities like Tehran. It was better than nothing though.
 
 There are lots of annoying seething bugs in Google maps for Android, like when you
 accidentally press the back button and lose current navigation. So sometimes I
 would switch to using the Iphone4's Google maps application, or use both and as
-both we somehow have different levels of cache of the same road. Sad.
+both would somehow have different levels of cache of the same road.
 
 ## Spot connect
 
