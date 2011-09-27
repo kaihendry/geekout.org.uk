@@ -1,4 +1,4 @@
-<a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
+<a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="imgs/mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
 
 ### [[About Jamie & Kai, team Geekout|About]]
 
@@ -6,9 +6,9 @@
 
 ### Actual Route
 
-[Google Map](http://hatz.ch/geekout/)
+<img src="imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
 
-[Where we were from SPOT](http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q) - best when we don't have mobile coverage
+[Google Map](http://hatz.ch/geekout/)
 
 ### Time Taken
 
@@ -20,6 +20,10 @@ Minutes: 57<br>
 ### Distance Travelled
 
 12,566 miles / 20,223 km
+
+### Pictures
+
+* [Kai's Mongol rally set](http://www.flickr.com/photos/hendry/sets/72157627638459707/)
 
 ### [[Recent Comments|comments]]
 
