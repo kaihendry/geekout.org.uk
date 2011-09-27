@@ -38,14 +38,14 @@ kept our followers engaged in realtime. It was also handy in the very rare
 instances our mobiles or Jamie's kindle didn't work to send a little 41
 character message out.
 
-## Our blogging platform <http://www.branchable.com/>
+## Our blogging platform, [Branchable](http://www.branchable.com/)
 
 Many other Mongol rally teams failed to get past one or two blogs. Jamie and I
 blogged continuously through the trip... How? Without an internet connection?
 We used **git** to commit blogs, and when we had internet in the briefest of
 moments we pushed and our readership got to enjoy our updates! Other blogging
 platforms basically assume you are on the Internet whilst writing the post,
-which sucks. Branchable rocks.
+which sucks. [Branchable](http://www.branchable.com/) powered by [Ikiwiki](http://ikiwiki.info/) rocks.
 
 ## The Kindle
 
@@ -54,7 +54,7 @@ this device kept him connected in almost every country except Turkmenistan,
 though it was a bit flaky through the 'stans. Incredibly useful. I will
 purchase the next update myself.
 
-## Moo business cards
+## [Moo business cards](http://moo.com/products/business-cards.html)
 
 Could have printed my mobile number though, otherwise super useful. Expensive
 unreliable mobile calls were the no. 1 way teams communicated unfortunately.
