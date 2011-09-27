@@ -2,7 +2,7 @@
 
 # Proposed route
 
-<img src="imgs/predicted-route.png" alt="Team geekout Mongol Rally 2011 southern route">
+<img src="/imgs/predicted-route.png" alt="Team geekout Mongol Rally 2011 southern route">
 
 Compare with [[actual route]].
 
