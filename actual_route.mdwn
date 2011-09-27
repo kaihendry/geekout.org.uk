@@ -1,0 +1,3 @@
+<img src="imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
+
+[Google Map](http://hatz.ch/geekout/)
