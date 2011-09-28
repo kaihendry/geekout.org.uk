@@ -1,5 +1,8 @@
-A friend who I met driving his VW camper around South America, Claudio Hatz, has put together a great google maps overlay of our GPS positions:
+A friend who I met driving his VW camper around South America, Claudio Hatz,
+has put together a great google maps overlay of our GPS positions:
 
-[[http://hatz.ch/geekout/]]
+* <http://geekout.org.uk/map>
+* [Source code](http://source.geekout-org-uk.branchable.com/?p=source.git;a=tree;f=map)
 
-Thanks Claudio!
+Thanks Claudio! Claudio is a good programmer who managed to pull both Google
+latitude & Spot locations onto one map.

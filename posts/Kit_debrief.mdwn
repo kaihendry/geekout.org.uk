@@ -34,7 +34,7 @@ It does have a mini-USB slot underneath it and looks like it could be powered
 by it, but it didn't seem to work frustratingly.
 
 Despite the clunky client and UI, the SPOT tracklog worked and we now have a
-fantastic [tracklog of our journey](http://hatz.ch/geekout/). Was that worth
+fantastic [tracklog of our journey](http://geekout.org.uk/map/). Was that worth
 300GBP despite fact one could collate GPS tracklogs?! I think so... because it
 kept our followers engaged in realtime. It was also handy in the very rare
 instances our mobiles or Jamie's kindle didn't work to send a little 41
