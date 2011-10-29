@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Kazakhstan"]]
+
+[[!inline pages="tagged(Kazakhstan)" actions="no" archive="yes"
+feedshow=10]]

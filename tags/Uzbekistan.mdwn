@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Uzbekistan"]]
+
+[[!inline pages="tagged(Uzbekistan)" actions="no" archive="yes"
+feedshow=10]]
