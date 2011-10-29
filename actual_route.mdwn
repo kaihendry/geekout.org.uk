@@ -1,22 +1,24 @@
 <img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
 
-[Google Map](http://geekout.org.uk/map/) which includes SPOT messages
+[Google Map](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
 
-# Mongol Rally 2011 "southern route" posts:
+# Team Geekout Mongol Rally 2011 "southern route" posts:
 
-* [[England|tags/England]]
-* [[Germany|tags/Germany]]
-* [[Czech|tags/Czech]]
-* [[Poland|tags/Poland]]
-* [[Ukraine|tags/Ukraine]]
-* [[Romania|tags/Romania]]
-* [[Bulgaria|tags/Bulgaria]]
-* [[Turkey|tags/Turkey]]
-* [[Iran|tags/Iran]]
-* [[Turkmenistan|tags/Turkmenistan]]
-* [[Uzbekistan|tags/Uzbekistan]]
-* [[Tajikistan|tags/Tajikistan]]
-* [[Kyrgyzstan|tags/Kyrgyzstan]]
-* [[Kazakhstan|tags/Kazakhstan]]
-* [[Russia|tags/Russia]]
-* [[Mongolia|tags/Mongolia]]
+* [[England|tags/England]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532220153/)
+* [[Germany|tags/Germany]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532213833/)
+* [[Czech|tags/Czech]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656401276/)
+* [[Poland|tags/Poland]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532201989/)
+* [[Ukraine|tags/Ukraine]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532193075/)
+* [[Romania|tags/Romania]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656379106/)
+* [[Bulgaria|tags/Bulgaria]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532178331/)
+* [[Turkey|tags/Turkey]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656359912/)
+* [[Iran|tags/Iran]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532156825/)
+* [[Turkmenistan|tags/Turkmenistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532138131/)
+* [[Uzbekistan|tags/Uzbekistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656324556/)
+* [[Tajikistan|tags/Tajikistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532125573/)
+* [[Kyrgyzstan|tags/Kyrgyzstan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656305886/)
+* [[Kazakhstan|tags/Kazakhstan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656305886/)
+* [[Russia|tags/Russia]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532107273/)
+* [[Mongolia|tags/Mongolia]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532100395/)
+
+Notice an issue? Please get in [[contact|about]]!
