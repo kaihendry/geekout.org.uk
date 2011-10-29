@@ -1,4 +1,4 @@
-<a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="imgs/mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
+<a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="/imgs/mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
 
 ### [[About Jamie & Kai, team Geekout|About]]
 
