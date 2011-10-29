@@ -1,3 +1,6 @@
 <img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
 
 [Google Map](http://geekout.org.uk/map/)
+
+* [[England|tags/England]]
+* [[Germany|tags/Germany]]
