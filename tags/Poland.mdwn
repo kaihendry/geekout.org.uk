@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Poland"]]
+
+[[!inline pages="tagged(Poland)" actions="no" archive="yes"
+feedshow=10]]
