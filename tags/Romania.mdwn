@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Romania"]]
+
+[[!inline pages="tagged(Romania)" actions="no" archive="yes"
+feedshow=10]]
