@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Kyrgyzstan"]]
+
+[[!inline pages="tagged(Kyrgyzstan)" actions="no" archive="yes"
+feedshow=10]]

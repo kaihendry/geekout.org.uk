@@ -1,0 +1,4 @@
+[[!meta title="pages tagged bulgaria"]]
+
+[[!inline pages="tagged(bulgaria)" actions="no" archive="yes"
+feedshow=10]]
