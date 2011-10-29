@@ -9,3 +9,6 @@ we should have crossed](http://maps.google.co.uk/maps?ll=45.880942,30.124769).
 <iframe width="560" height="349" src="http://www.youtube.com/embed/-TWCtZ0en5s" frameborder="0" allowfullscreen></iframe>
 
 The other half of the bridge to come ...
+
+
+[[!tag Ukraine]]

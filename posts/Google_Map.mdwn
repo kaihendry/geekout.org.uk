@@ -4,5 +4,5 @@ has put together a great google maps overlay of our GPS positions:
 * <http://geekout.org.uk/map>
 * [Source code](http://source.geekout-org-uk.branchable.com/?p=source.git;a=tree;f=map)
 
-Thanks Claudio! Claudio is a good programmer who managed to pull both Google
-latitude & Spot locations onto one map.
+Thanks Claudio! Claudio Hatz is a good programmer who managed to pull both
+Google latitude & Spot locations onto one map. Sweet!
