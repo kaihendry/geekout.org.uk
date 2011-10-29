@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Turkmenistan"]]
+
+[[!inline pages="tagged(Turkmenistan)" actions="no" archive="yes"
+feedshow=10]]
