@@ -2,10 +2,12 @@
 
 [Google Map](http://geekout.org.uk/map/) which includes SPOT messages
 
+# Mongol Rally 2011 "southern route" posts:
+
 * [[England|tags/England]]
 * [[Germany|tags/Germany]]
 * [[Czech|tags/Czech]]
-* Poland
+* [[Poland|tags/Poland]]
 * [[Ukraine|tags/Ukraine]]
 * [[Romania|tags/Romania]]
 * [[Bulgaria|tags/Bulgaria]]
