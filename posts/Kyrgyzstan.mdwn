@@ -28,7 +28,6 @@ Hotel Altai and it was absolutely abysmal. Nothing worked, not even in the taps
 in the room.
 
 The next day we wanted to deal with the two tyres before setting off on the
-<<<<<<< HEAD
 10hr drive to Bishkek. We found the "Car (Machina) Bizaare" with the help of
 Team Bruce Almaty and we hoped we could get everything sorted in a bit more
 than an hour, in order to leave by midday.
@@ -65,3 +64,5 @@ sun beat down. I got a bowl out of the car and prepared for the worse.
 Two days later and I have finally recovered. I swear I will never drink that fizzy yak's
 milk again. Though having said that no one else was fool enough to drink it, and they
 all came down with the same symptoms, at some point.
+
+[[!tag Kyrgyzstan]]

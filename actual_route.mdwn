@@ -1,6 +1,20 @@
 <img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
 
-[Google Map](http://geekout.org.uk/map/)
+[Google Map](http://geekout.org.uk/map/) which includes SPOT messages
 
 * [[England|tags/England]]
 * [[Germany|tags/Germany]]
+* [[Czech|tags/Czech]]
+* Poland
+* [[Ukraine|tags/Ukraine]]
+* [[Romania|tags/Romania]]
+* [[Bulgaria|tags/Bulgaria]]
+* [[Turkey|tags/Turkey]]
+* [[Iran|tags/Iran]]
+* [[Turkmenistan|tags/Turkmenistan]]
+* [[Uzbekistan|tags/Uzbekistan]]
+* [[Tajikistan|tags/Tajikistan]]
+* [[Kyrgyzstan|tags/Kyrgyzstan]]
+* [[Kazakhstan|tags/Kazakhstan]]
+* [[Russia|tags/Russia]]
+* [[Mongolia|tags/Mongolia]]
