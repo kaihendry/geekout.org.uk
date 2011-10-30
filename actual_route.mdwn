@@ -1,6 +1,6 @@
 <img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
 
-[Google Map](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
+[Google Map of Geekout's journey](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
 
 # Team Geekout Mongol Rally 2011 "southern route" posts:
 
@@ -16,7 +16,7 @@ table, td, tr { border: none; }
 </table>
 </span>
 
-1. [[England|tags/England]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532220153/)
+[[England|tags/England]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532220153/)
 
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
@@ -26,7 +26,7 @@ table, td, tr { border: none; }
 </table>
 </span>
 
-* [[Germany|tags/Germany]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532213833/)
+[[Germany|tags/Germany]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532213833/)
 
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
@@ -36,8 +36,7 @@ table, td, tr { border: none; }
 </table>
 </span>
 
-
-* [[Czech|tags/Czech]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656401276/)
+[[Czech|tags/Czech]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656401276/)
 
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
@@ -47,9 +46,7 @@ table, td, tr { border: none; }
 </table>
 </span>
 
-
-
-* [[Poland|tags/Poland]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532201989/)
+[[Poland|tags/Poland]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532201989/)
 
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
@@ -59,19 +56,124 @@ table, td, tr { border: none; }
 </table>
 </span>
 
+[[Ukraine|tags/Ukraine]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532193075/)
 
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532193075&context=in%2Fset-72157627532193075%2F"></script>
+</tr>
+</table>
+</span>
 
-* [[Ukraine|tags/Ukraine]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532193075/)
-* [[Romania|tags/Romania]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656379106/)
-* [[Bulgaria|tags/Bulgaria]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532178331/)
-* [[Turkey|tags/Turkey]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656359912/)
-* [[Iran|tags/Iran]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532156825/)
-* [[Turkmenistan|tags/Turkmenistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532138131/)
-* [[Uzbekistan|tags/Uzbekistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656324556/)
-* [[Tajikistan|tags/Tajikistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532125573/)
-* [[Kyrgyzstan|tags/Kyrgyzstan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656305886/)
-* [[Kazakhstan|tags/Kazakhstan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656305886/)
-* [[Russia|tags/Russia]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532107273/)
-* [[Mongolia|tags/Mongolia]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532100395/)
+[[Romania|tags/Romania]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656379106/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656379106&context=in%2Fset-72157627656379106%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Bulgaria|tags/Bulgaria]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532178331/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532178331&context=in%2Fset-72157627532178331%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Turkey|tags/Turkey]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656359912/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656359912&context=in%2Fset-72157627656359912%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Iran|tags/Iran]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532156825/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532156825&context=in%2Fset-72157627532156825%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Turkmenistan|tags/Turkmenistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532138131/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532138131&context=in%2Fset-72157627532138131%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Uzbekistan|tags/Uzbekistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656324556/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656324556&context=in%2Fset-72157627656324556%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Tajikistan|tags/Tajikistan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532125573/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532125573&context=in%2Fset-72157627532125573%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Kyrgyzstan|tags/Kyrgyzstan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656305886/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656305886&context=in%2Fset-72157627656305886%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Kazakhstan|tags/Kazakhstan]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656305886/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656305886&context=in%2Fset-72157627656305886%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Russia|tags/Russia]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532107273/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532107273&context=in%2Fset-72157627532107273%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Mongolia|tags/Mongolia]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532100395/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532100395&context=in%2Fset-72157627532100395%2F"></script>
+</tr>
+</table>
+</span>
 
 Notice an issue? Please get in [[contact|about]]!
