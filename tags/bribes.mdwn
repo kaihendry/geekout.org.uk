@@ -1,0 +1,4 @@
+[[!meta title="pages tagged bribes"]]
+
+[[!inline pages="tagged(bribes)" actions="no" archive="yes"
+feedshow=10]]
