@@ -4,7 +4,7 @@
 
 # Team Geekout Mongol Rally 2011 "southern route" posts:
 
-<!-- Start of Flickr Badge -->
+<span>
 <style type="text/css">
 #flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
 #flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
@@ -31,7 +31,7 @@
 </tr>
 </table>
 </td></tr></table>
-<!-- End of Flickr Badge -->
+</span>
 
 * [[England|tags/England]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532220153/)
 * [[Germany|tags/Germany]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532213833/)
