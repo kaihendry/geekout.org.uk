@@ -4,9 +4,7 @@
 
 ### [[Predicted Route and Itinerary|Route]] via Iran & the stans
 
-
 ### [[Actual Route]]
-
 
 ### Time Taken
 
@@ -29,7 +27,7 @@ Minutes: 57<br>
 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 18em; height:80px"></iframe>
 
-[[Posts]]
+[[All posts|Posts]]
 
 [[Tags]]:
 [[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
