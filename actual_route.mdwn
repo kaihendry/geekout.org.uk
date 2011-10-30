@@ -7,16 +7,25 @@
 <span>
 <style>
 .flickr_badge_image {text-align:center !important;}
-.flickr_badge_image img {border: 1px solid black !important;}
+table, td, tr { border: none; }
 </style>
-<table style="border:none;" cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
 <script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=16105436%40N00&set=72157627638459707&context=in%2Fset-72157627638459707%2F"></script>
 </tr>
 </table>
 </span>
 
-* [[England|tags/England]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532220153/)
+1. [[England|tags/England]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532220153/)
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532220153&context=in%2Fset-72157627532220153%2F"></script>
+</tr>
+</table>
+</span>
+
 * [[Germany|tags/Germany]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532213833/)
 * [[Czech|tags/Czech]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627656401276/)
 * [[Poland|tags/Poland]] - [pictures](http://www.flickr.com/photos/jamiekitson/sets/72157627532201989/)
