@@ -180,4 +180,4 @@ table, td, tr { border: none; }
 
 # Posts not related to a country we visited
 
-[[!inline pages="page(* and !link(mongolia) and !link(russia) ) and !*/Discussion" archive=yes quick=yes]]
+[[!inline pages="* and !link(mongolia) and !link(russia) and !*/Discussion" archive=yes quick=yes]]
