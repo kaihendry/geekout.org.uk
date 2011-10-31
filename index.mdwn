@@ -4,7 +4,7 @@
 
 [Google Map of Geekout's journey](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
 
-# Team Geekout Mongol Rally 2011 "southern route" posts:
+# Team Geekout Mongol Rally 2011 "southern route" countries visited
 
 <span>
 <style>
@@ -178,8 +178,6 @@ table, td, tr { border: none; }
 </table>
 </span>
 
+# Posts not related to a country we visited
 
-<!-- Show posts not tagged by a country above -->
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes]]
-
-Notice an issue? Please get in [[contact|about]]!
+[[!inline pages="page(* and !link(mongolia) and !link(russia) ) and !*/Discussion" archive=yes quick=yes]]
