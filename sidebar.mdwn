@@ -2,10 +2,6 @@
 
 ### [[About Jamie & Kai, team Geekout|About]]
 
-### [[Predicted Route and Itinerary|Route]] via Iran & the stans
-
-### [[Actual Route]]
-
 ### Time Taken
 
 Weeks: 6<br>
@@ -17,17 +13,7 @@ Minutes: 57<br>
 
 12,566 miles / 20,223 km
 
-### Pictures
-
-* [Kai's Mongol rally set](http://www.flickr.com/photos/hendry/sets/72157627638459707/)
-
-### [[Recent Comments|comments]]
-
-<a href='https://www.justgiving.com/teams/Geekout' alt='JustGiving - Sponsor us now!' target='_blank'><img src='http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge9.gif' width='120' height='90'></a>
-
 <iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 18em; height:80px"></iframe>
 
-[[All posts|Posts]]
-
-[[Tags]]:
-[[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
+* [[Tags]]
+* [[Predicted Route and Itinerary|Route]] via Iran & the stans

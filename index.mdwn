@@ -1,11 +1,185 @@
-[[!meta title="Team Geekout (Jamie&Kai) are geeking out on the Mongol Rally 2011" ]]
+[[!meta title="Team Geekout (Jamie&Kai) are geeked out on the Mongol Rally 2011" ]]
 
-[[!inline pages="internal(planet/*)" template="microblog" show=1 feeds=no]]
+<img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
 
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
+[Google Map of Geekout's journey](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
+# Team Geekout Mongol Rally 2011 "southern route" posts:
+
+<span>
+<style>
+.flickr_badge_image {text-align:center !important;}
+table, td, tr { border: none; }
+</style>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=16105436%40N00&set=72157627638459707&context=in%2Fset-72157627638459707%2F"></script>
+</tr>
+</table>
+</span>
+
+[[England|tags/England]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532220153&context=in%2Fset-72157627532220153%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Germany|tags/Germany]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532213833&context=in%2Fset-72157627532213833%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Czech|tags/Czech]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656401276&context=in%2Fset-72157627656401276%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Poland|tags/Poland]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532201989&context=in%2Fset-72157627532201989%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Ukraine|tags/Ukraine]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532193075&context=in%2Fset-72157627532193075%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Romania|tags/Romania]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656379106&context=in%2Fset-72157627656379106%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Bulgaria|tags/Bulgaria]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532178331&context=in%2Fset-72157627532178331%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Turkey|tags/Turkey]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656359912&context=in%2Fset-72157627656359912%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Iran|tags/Iran]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532156825&context=in%2Fset-72157627532156825%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Turkmenistan|tags/Turkmenistan]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532138131&context=in%2Fset-72157627532138131%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Uzbekistan|tags/Uzbekistan]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656324556&context=in%2Fset-72157627656324556%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Tajikistan|tags/Tajikistan]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532125573&context=in%2Fset-72157627532125573%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Kyrgyzstan|tags/Kyrgyzstan]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157628013091212&context=in%2Fset-72157628013091212%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Kazakhstan|tags/Kazakhstan]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656305886&context=in%2Fset-72157627656305886%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Russia|tags/Russia]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532107273&context=in%2Fset-72157627532107273%2F"></script>
+</tr>
+</table>
+</span>
+
+[[Mongolia|tags/Mongolia]]
+
+<span>
+<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532100395&context=in%2Fset-72157627532100395%2F"></script>
+</tr>
+</table>
+</span>
+
+
+<!-- Show posts not tagged by a country above -->
+[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes]]
+
+Notice an issue? Please get in [[contact|about]]!
