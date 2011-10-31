@@ -15,5 +15,9 @@ Minutes: 57<br>
 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 18em; height:80px"></iframe>
 
-* [[Tags]]
+* [[Tag cloud|Tags]]
+
+### Planning stages
+
+* [[kit]] we took with us
 * [[Predicted Route and Itinerary|Route]] via Iran & the stans
