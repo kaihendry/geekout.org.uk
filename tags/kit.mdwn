@@ -1,4 +1,4 @@
 [[!meta title="pages tagged kit"]]
 
-[[!inline pages="tagged(kit)" actions="no" archive="yes"
+[[!inline pages="tagged(kit)" actions="no"
 feedshow=10]]

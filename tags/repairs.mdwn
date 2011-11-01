@@ -1,4 +1,4 @@
 [[!meta title="pages tagged repairs"]]
 
-[[!inline pages="tagged(repairs)" actions="no" archive="yes"
+[[!inline pages="tagged(repairs)" actions="no"
 feedshow=10]]

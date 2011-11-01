@@ -1,4 +1,4 @@
 [[!meta title="pages tagged borders"]]
 
-[[!inline pages="tagged(borders)" actions="no" archive="yes"
+[[!inline pages="tagged(borders)" actions="no"
 feedshow=10]]

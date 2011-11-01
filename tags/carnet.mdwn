@@ -1,4 +1,4 @@
 [[!meta title="pages tagged carnet"]]
 
-[[!inline pages="tagged(carnet)" actions="no" archive="yes"
+[[!inline pages="tagged(carnet)" actions="no"
 feedshow=10]]

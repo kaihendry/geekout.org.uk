@@ -1,4 +1,4 @@
 [[!meta title="pages tagged Tajikistan"]]
 
-[[!inline pages="tagged(Tajikistan)" actions="no" archive="yes"
+[[!inline pages="tagged(Tajikistan)" actions="no"
 feedshow=10]]

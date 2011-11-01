@@ -1,4 +1,4 @@
 [[!meta title="pages tagged visas"]]
 
-[[!inline pages="tagged(visas)" actions="no" archive="yes"
+[[!inline pages="tagged(visas)" actions="no"
 feedshow=10]]

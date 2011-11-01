@@ -1,4 +1,4 @@
 [[!meta title="pages tagged work"]]
 
-[[!inline pages="tagged(work)" actions="no" archive="yes"
+[[!inline pages="tagged(work)" actions="no"
 feedshow=10]]

@@ -1,4 +1,4 @@
 [[!meta title="pages tagged sponsorship"]]
 
-[[!inline pages="tagged(sponsorship)" actions="no" archive="yes"
+[[!inline pages="tagged(sponsorship)" actions="no"
 feedshow=10]]

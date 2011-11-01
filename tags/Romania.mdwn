@@ -1,4 +1,4 @@
 [[!meta title="pages tagged Romania"]]
 
-[[!inline pages="tagged(Romania)" actions="no" archive="yes"
+[[!inline pages="tagged(Romania)" actions="no"
 feedshow=10]]

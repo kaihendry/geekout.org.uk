@@ -1,4 +1,4 @@
 [[!meta title="pages tagged Ukraine"]]
 
-[[!inline pages="tagged(Ukraine)" actions="no" archive="yes"
+[[!inline pages="tagged(Ukraine)" actions="no"
 feedshow=10]]

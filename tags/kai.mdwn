@@ -1,4 +1,4 @@
 [[!meta title="pages tagged kai"]]
 
-[[!inline pages="tagged(kai)" actions="no" archive="yes"
+[[!inline pages="tagged(kai)" actions="no"
 feedshow=10]]

@@ -1,4 +1,4 @@
 [[!meta title="pages tagged Poland"]]
 
-[[!inline pages="tagged(Poland)" actions="no" archive="yes"
+[[!inline pages="tagged(Poland)" actions="no"
 feedshow=10]]

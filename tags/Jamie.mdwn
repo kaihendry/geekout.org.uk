@@ -1,4 +1,4 @@
 [[!meta title="pages tagged Jamie"]]
 
-[[!inline pages="tagged(Jamie)" actions="no" archive="yes"
+[[!inline pages="tagged(Jamie)" actions="no"
 feedshow=10]]

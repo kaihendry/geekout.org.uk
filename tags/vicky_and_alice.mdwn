@@ -1,4 +1,4 @@
 [[!meta title="pages tagged vicky and alice"]]
 
-[[!inline pages="tagged(vicky_and_alice)" actions="no" archive="yes"
+[[!inline pages="tagged(vicky_and_alice)" actions="no"
 feedshow=10]]

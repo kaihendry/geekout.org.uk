@@ -1,4 +1,4 @@
 [[!meta title="pages tagged start"]]
 
-[[!inline pages="tagged(start)" actions="no" archive="yes"
+[[!inline pages="tagged(start)" actions="no"
 feedshow=10]]

@@ -1,4 +1,4 @@
 [[!meta title="pages tagged England"]]
 
-[[!inline pages="tagged(England)" actions="no" archive="yes"
+[[!inline pages="tagged(England)" actions="no"
 feedshow=10]]

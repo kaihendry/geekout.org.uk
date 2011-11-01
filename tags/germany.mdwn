@@ -1,4 +1,4 @@
 [[!meta title="pages tagged germany"]]
 
-[[!inline pages="tagged(germany)" actions="no" archive="yes"
+[[!inline pages="tagged(germany)" actions="no"
 feedshow=10]]

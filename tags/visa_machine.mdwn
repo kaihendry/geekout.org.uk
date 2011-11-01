@@ -1,4 +1,4 @@
 [[!meta title="pages tagged visa machine"]]
 
-[[!inline pages="tagged(visa_machine)" actions="no" archive="yes"
+[[!inline pages="tagged(visa_machine)" actions="no"
 feedshow=10]]

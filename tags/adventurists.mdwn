@@ -1,4 +1,4 @@
 [[!meta title="pages tagged adventurists"]]
 
-[[!inline pages="tagged(adventurists)" actions="no" archive="yes"
+[[!inline pages="tagged(adventurists)" actions="no"
 feedshow=10]]

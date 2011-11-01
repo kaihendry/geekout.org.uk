@@ -1,4 +1,4 @@
 [[!meta title="pages tagged campbell irvine"]]
 
-[[!inline pages="tagged(campbell_irvine)" actions="no" archive="yes"
+[[!inline pages="tagged(campbell_irvine)" actions="no"
 feedshow=10]]
