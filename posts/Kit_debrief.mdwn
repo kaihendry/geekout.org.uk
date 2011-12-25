@@ -108,6 +108,8 @@ The GoPro was going strong, until we ran it over. The camera itself wasn't damag
 
 The GoPro UI is pretty simple, just two buttons, however if you don't use it much and can't see the light or hear the beeps or know what the beeps mean then it can be difficult to know what/if the button you have just pressed has done. Hence we have a lot of quizzical faces looming into view to check that it's recording. I personally found it difficult to remember which button did what when the camera was upside down. It also wasn't much cop in darker conditions.
 
+The battery would last for approximately two to three hours, which was enough, the problem was that the battery meter was practically useless, it would display sink from three bars to empty in minutes, meaning that we had to either remember how much we had used it, or just charge it whenever we could. The GoPro seemed to use almost as much batter while on but not doing anything as it did when it was actually filming, which was odd.
+
 # The bad
 
 ## [Ortlieb 10L water bladder](http://www.ortliebusa.com/CartGenie/prod-66.htm)
