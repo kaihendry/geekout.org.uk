@@ -1,6 +1,8 @@
 If I can scan the [[kit]] list of what we brought, I thought I should extol
 which was good and what was a waste of space.
 
+[[!toc levels=2]]
+
 # The good
 
 ## Tomtom & Google Maps
