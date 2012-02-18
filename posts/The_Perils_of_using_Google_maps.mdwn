@@ -3,8 +3,8 @@ Yesterday was a tough day at the office. Here is how it went wrong:
 <iframe width="560" height="349" src="http://www.youtube.com/embed/6jiWq6fPyaM" frameborder="0" allowfullscreen></iframe>
 
 [The bridge that Google maps told us to
-cross](http://maps.google.co.uk/maps?ll=45.90521,30.123954) and [the new bridge
-we should have crossed](http://maps.google.co.uk/maps?ll=45.880942,30.124769).
+cross](http://maps.google.co.uk/maps?ll=45.905233,30.124104&spn=0.0066,0.016512&t=h&z=17&vpsrc=6) and [the new bridge
+we should have crossed](http://maps.google.co.uk/maps?ll=45.880419,30.122666&spn=0.013205,0.033023&t=h&z=16&vpsrc=6).
 
 <iframe width="560" height="349" src="http://www.youtube.com/embed/-TWCtZ0en5s" frameborder="0" allowfullscreen></iframe>
 
