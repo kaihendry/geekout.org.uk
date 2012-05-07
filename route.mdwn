@@ -4,7 +4,7 @@
 
 <img src="/imgs/predicted-route.png" alt="Team geekout Mongol Rally 2011 southern route">
 
-Compare with [[actual route]].
+Compare with [actual route](http://geekout.org.uk/map/).
 
 [Our mapped route](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=211124371697914849936.00049cb5a8407f88469d0&z=3)
 
