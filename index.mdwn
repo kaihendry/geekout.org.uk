@@ -1,6 +1,6 @@
 [[!meta title="Team Geekout (Jamie&Kai) geeked out on the Mongol Rally 2011" ]]
 
-<img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route">
+<a href="http://geekout.org.uk/map/"><img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route"></a>
 
 [Google Map of Geekout's journey](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
 
