@@ -32,6 +32,3 @@ Over and out.
 
 [[!tag Germany Czech]]
 
-[[!trailitems  pages="posts/*" sort="age"]]
-[[!inline  pages="page(./posts/*) and !*/Discussion" archive=yes
-    feedshow=10 quick=yes trail=yes]]
