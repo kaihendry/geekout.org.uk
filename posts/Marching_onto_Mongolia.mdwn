@@ -37,6 +37,3 @@ should make it easy for you all to donate money, not to us, though to
 
 
 [[!tag  charity]]
-
-  [[!inline  pages="page(posts/*) and !*/Discussion" archive=yes
-    feedshow=10 quick=yes trail=yes]]
