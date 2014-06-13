@@ -3,6 +3,5 @@ Pete made this excellent video and slideshow of the start of the Mongol Rally. T
 
 [[!tag video start launch pete england]]
 
-[[!trailitems  pages="posts/*" sort="age"]]
 [[!inline  pages="page(./posts/*) and !*/Discussion" archive=yes
     feedshow=10 quick=yes trail=yes]]
