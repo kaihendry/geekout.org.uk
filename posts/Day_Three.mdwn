@@ -31,3 +31,6 @@ although maybe that's just the ambient temperature.
 Over and out.
 
 [[!tag Germany Czech]]
+
+[[!inline  pages="page(./posts/*) and !*/Discussion" archive=yes
+    feedshow=10 quick=yes trail=yes]]
