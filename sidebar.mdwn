@@ -21,3 +21,5 @@ Minutes: 57<br>
 
 * [[kit]] we took with us
 * [[Predicted Route and Itinerary|Route]] via Iran & the stans
+
+[[!trailitems  pages="posts/*" sort="age"]]
