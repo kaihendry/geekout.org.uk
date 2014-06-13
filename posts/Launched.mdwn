@@ -40,5 +40,3 @@ to stay with a very good friend Felix from India. Actually he's German, but we
 met in India.
 
 [[!tag England Germany]]
-
-[[!trailitems  pages="posts/*" sort="age"]]
