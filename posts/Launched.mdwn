@@ -41,5 +41,4 @@ met in India.
 
 [[!tag England Germany]]
 
-[[!inline  pages="page(./posts/*) and !*/Discussion" archive=yes
-    feedshow=10 quick=yes trail=yes]]
+[[!trailitems  pages="posts/*" sort="age"]]
