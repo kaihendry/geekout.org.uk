@@ -4,6 +4,8 @@
 
 .pageheader { background-repeat: repeat-x }
 
+.trail { top: 10px }
+
 /*
 #content img[src*='flickr']
 {
