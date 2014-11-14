@@ -45,3 +45,8 @@ blockquote
 	font-size: 2em;
 	margin-top: 0.25em;
 }
+
+.blogform
+{
+    display: none;
+}
