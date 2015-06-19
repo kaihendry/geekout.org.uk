@@ -77,14 +77,14 @@ for ( var i = 0; i < lines.length; i++ )
   path.push(latlng); 
   if (el.length == 3)
   {
-    var mark = new google.maps.Marker({position: latlng, title: el[0], icon: blueMarkerImage});
+    var mark = new google.maps.Marker({position: latlng, title: el[0], icon: blueMarkerImage, optimised: false});
     markerManager.addMarker(mark, 10);
   }
   else
   {
     var tit = el.slice(3).join(' ');
 //    alert(tit);
-    var mark = new google.maps.Marker({position: latlng, title: tit, icon: messageMarkerImage});
+    var mark = new google.maps.Marker({position: latlng, title: tit, icon: messageMarkerImage, optimised: false});
     markerManager.addMarker(mark, 7);
   }
 }
