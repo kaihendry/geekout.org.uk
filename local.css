@@ -18,7 +18,7 @@
 */
 
 /* #content img[title] */
-#content img[src*='flickr']
+#content img[src*='flickr'], #content img[src*='facebook']
 {
 	border: 1px solid #99BB99;
 	margin: 5px;
