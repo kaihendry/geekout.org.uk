@@ -65,8 +65,9 @@
 					var path = poly.getPath();				
 
 xmlHttp=new XMLHttpRequest();
-xmlHttp.open("GET", "data.csv.html", false);
-xmlHttp.send();
+xmlHttp.open("GET", "data.csv.html", true);
+xmlHttp.onload = function (e) {
+
 var lines=xmlHttp.responseText.split("\n");
 for ( var i = 0; i < lines.length; i++ )
 {
@@ -90,6 +91,8 @@ for ( var i = 0; i < lines.length; i++ )
 }
 
 					poly.setMap(map);
+};
+xmlHttp.send(null);
 				}
 			</script>
 <script type="text/javascript">
