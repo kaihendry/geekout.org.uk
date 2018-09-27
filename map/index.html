@@ -34,9 +34,11 @@
 					markerManager = new MarkerManager(map);
 					google.maps.event.addListener(markerManager, 'loaded', function(){
 						setupOverlay();
+                        /*
 						google.maps.event.addListener(map, 'zoom_changed', function() {
 						updateStatus(markerManager.getMarkerCount(map.getZoom()));
 						});
+                        */
 					}); 
 
 				}
