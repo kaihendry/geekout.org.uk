@@ -4,7 +4,7 @@ git clone git://git.ikiwiki.info/
 
 cd git.ikiwiki.info
 
-Makefile.PL
+./Makefile.PL
 
 make
 
