@@ -1,5 +1,7 @@
 #!/bin/bash
 
-sudo apt-get install -y --no-install-recommends ikiwiki
+git clone git://github.com/fsquillace/junest ~/junest
+PATH=~/junest/bin:$PATH
+junest -f -- pacman --noconfirm -Sy ikiwiki
 
-ikiwiki ./ out 
+junest -- ikiwiki ./ out 
