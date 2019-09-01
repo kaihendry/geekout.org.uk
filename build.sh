@@ -1,13 +1,7 @@
 #!/bin/bash
 
-cpan YAML::XS
+aptitude download ikiwiki
 
-git clone git://git.ikiwiki.info/
+dpkg-deb -x *.deb
 
-cd git.ikiwiki.info
-
-./Makefile.PL
-
-make
-
-ikiwiki ./ out 
+./usr/bin/ikiwiki ./ out 
