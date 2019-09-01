@@ -1,7 +1,9 @@
 #!/bin/bash
 
-git clone git://github.com/fsquillace/junest ~/junest
-PATH=~/junest/bin:$PATH
-junest -f -- pacman --noconfirm -Sy ikiwiki
+git clone git://git.ikiwiki.info/
 
-junest -- ikiwiki ./ out 
+Makefile.PL
+
+make
+
+ikiwiki ./ out 
