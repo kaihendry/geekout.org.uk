@@ -1,0 +1,52 @@
+.actions { opacity: 0 }
+
+.actions:hover { opacity: 1 }
+
+.pageheader { background-repeat: repeat-x }
+
+.trail { top: 10px }
+
+.pageheader .header span a, .pageheader .actions ul li a, .pageheader .header .parentlinks a, .pageheader #otherlanguages ul li a, .pageheader a, .pageheader .trail a { text-decoration: underline }
+
+/*
+#content img[src*='flickr']
+{
+	border-style: none;
+	margin: 0;
+	padding: 0;
+}
+*/
+
+/* #content img[title] */
+#content img[src*='flickr'], #content img[src*='facebook']
+{
+	border: 1px solid #99BB99;
+	margin: 5px;
+	padding: 4px;
+}
+
+blockquote p
+{
+	margin-bottom: 0.3em;
+}
+
+blockquote
+{
+	border-color: #BBBB88;
+	border-style: solid;
+	border-width: 2px;
+	margin: 1em;
+	padding: 1em;
+}
+
+#bah .pageheader .header .title
+{
+	display: inline-block;
+	font-size: 2em;
+	margin-top: 0.25em;
+}
+
+.blogform
+{
+    display: none;
+}
