@@ -1,8 +1,8 @@
 [[!meta title="Team Geekout (Jamie&Kai) geeked out on the Mongol Rally 2011" ]]
 
-<a href="http://geekout.org.uk/map/"><img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route"></a>
+<a href="/map/"><img src="/imgs/geekout-mongolrally.png" alt="Team geekout Mongol Rally 2011 southern route"></a>
 
-[Google Map of Geekout's journey](http://geekout.org.uk/map/) which includes SPOT (satellite transmitted) messages
+[Google Map of Geekout's journey](/map/) which includes SPOT (satellite transmitted) messages
 
 [[All Posts|posts]]
 
@@ -13,7 +13,7 @@ share from his ill fated African tour (Hint: Egypt are throwing people in jail
 and impounding cars):
 
 * Basically impossible to avoid Egypt if driving overland, every other route is worse.
-* If I did it again I'd look into shipping a car to Ethiopia or [Djibouti](http://www.openstreetmap.org/relation/192801) (ask the guys at Seakargo.com, +44 0845 5120 for a quote) or buy one in South Africa and go sourth-to-north.
+* If I did it again I'd look into shipping a car to Ethiopia or [Djibouti](https://www.openstreetmap.org/relation/192801) (ask the guys at Seakargo.com, +44 0845 5120 for a quote) or buy one in South Africa and go sourth-to-north.
 * For visa requirements, check VisaHQ.com.
 
 # Team Geekout Mongol Rally 2011 "southern route" countries visited
@@ -25,7 +25,7 @@ table, td, tr { border: none; }
 </style>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=16105436%40N00&set=72157627638459707"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=16105436%40N00&set=72157627638459707"></script>
 </tr>
 </table>
 </span>
@@ -35,7 +35,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532220153"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532220153"></script>
 </tr>
 </table>
 </span>
@@ -45,7 +45,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532213833"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532213833"></script>
 </tr>
 </table>
 </span>
@@ -55,7 +55,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656401276"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656401276"></script>
 </tr>
 </table>
 </span>
@@ -65,7 +65,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532201989"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532201989"></script>
 </tr>
 </table>
 </span>
@@ -75,7 +75,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532193075"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532193075"></script>
 </tr>
 </table>
 </span>
@@ -85,7 +85,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656379106"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656379106"></script>
 </tr>
 </table>
 </span>
@@ -95,7 +95,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532178331"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532178331"></script>
 </tr>
 </table>
 </span>
@@ -105,7 +105,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656359912"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656359912"></script>
 </tr>
 </table>
 </span>
@@ -115,7 +115,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532156825"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532156825"></script>
 </tr>
 </table>
 </span>
@@ -125,7 +125,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532138131"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532138131"></script>
 </tr>
 </table>
 </span>
@@ -135,7 +135,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656324556"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656324556"></script>
 </tr>
 </table>
 </span>
@@ -145,7 +145,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532125573"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532125573"></script>
 </tr>
 </table>
 </span>
@@ -155,7 +155,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157628013091212"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157628013091212"></script>
 </tr>
 </table>
 </span>
@@ -165,7 +165,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656305886"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627656305886"></script>
 </tr>
 </table>
 </span>
@@ -175,7 +175,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532107273"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532107273"></script>
 </tr>
 </table>
 </span>
@@ -185,7 +185,7 @@ table, td, tr { border: none; }
 <span>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
-<script src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532100395"></script>
+<script src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=random&size=t&layout=h&source=user_set&user=77788903@N00&set=72157627532100395"></script>
 </tr>
 </table>
 </span>
