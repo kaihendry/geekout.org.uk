@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>posts/Ulaanbatar</title>
+<link>https://geekout.org.uk/posts/Ulaanbatar/</link>
+<atom:link href="https://geekout.org.uk/posts/Ulaanbatar/comments.rss" rel="self" type="application/rss+xml"/>
+
+<description>Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</description>
+<generator>ikiwiki</generator>
+<pubDate>Sat, 31 Aug 2019 07:46:10 +0100</pubDate>
+<item>
+	<title>Spellings</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Ulaanbatar/comment_1_eaa844e50353c4fd7bedcca146c8c90c/</guid>
+
+	<link>https://geekout.org.uk/posts/Ulaanbatar/#comment-2bdb05914bc578901358678374d89b7a</link>
+
+	<dc:creator>http://jamiek.it/</dc:creator>
+
+
+	<pubDate>Sun, 11 Sep 2011 16:07:48 +0100</pubDate>
+	<dcterms:modified>2019-08-31T06:46:10Z</dcterms:modified>
+
+
+	<description>You forgot &quot;Chinggis&quot;.
+</description>
+
+
+</item>
+
+</channel>
+</rss>

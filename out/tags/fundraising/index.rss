@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>pages tagged fundraising</title>
+<link>https://geekout.org.uk/tags/fundraising/</link>
+<atom:link href="https://geekout.org.uk/tags/fundraising/index.rss" rel="self" type="application/rss+xml"/>
+
+<description>Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</description>
+<generator>ikiwiki</generator>
+<pubDate>Tue, 03 Sep 2019 16:05:28 +0100</pubDate>
+<item>
+	<title>Fundraising update</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Fundraising_update/</guid>
+
+	<link>https://geekout.org.uk/posts/Fundraising_update/</link>
+
+
+
+	<category>fundraising</category>
+
+	<category>sponsorship</category>
+
+
+	<pubDate>Sat, 31 Aug 2019 07:46:10 +0100</pubDate>
+	<dcterms:modified>2019-09-03T15:05:28Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/5616123946/&quot; title=&quot;Charity starts at the workplace by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm6.static.flickr.com/5142/5616123946_2a361d83ec.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Charity starts at the workplace&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My friends and work colleagues are proving to be difficult patrons of poor
+children. I have since setup a system to punish my colleagues, else God will.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;To: london-office@XXXXX
+Date: Tue, 12 Apr 2011 07:50:28 +0000
+Subject: Mongolian Rally charity fund raising for poor children in Mongolia
+Hello all,
+
+Please come to Suite 502 and break the rules of the quiet room. The fine
+is 1GBP and the money will all go to https://www.cncf.org Not me, not my
+car, not alcohol, not entertaining women, instead it will ALL go to
+foreign children.
+
+I am aiming to raise at least 500GBP for the charity CNCF as part of my
+effort to bring peace to this troubled area.
+https://www.justgiving.com/geekout https://geekout.org.uk/
+
+Thank you in advance,
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Remember you don&#39;t have to just give, you can also make a
+&lt;a href=&quot;https://geekout.org.uk/posts/non-sponsorship/&quot;&gt;bet&lt;/a&gt; on a child&#39;s life.&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/Fundraising_update/#comments</comments>
+
+</item>
+
+</channel>
+</rss>

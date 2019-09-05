@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pages tagged kit</title>
+<link href="https://geekout.org.uk/tags/kit/"/>
+<link href="https://geekout.org.uk/tags/kit/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Team Geekout (Jamie&Kai) geeked out on the Mongol Rally 2011</name>
+
+</author>
+
+
+
+
+<id>https://geekout.org.uk/tags/kit/</id>
+
+<subtitle type="html">Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2019-09-03T15:05:28Z</updated>
+<entry>
+	<title>Kit debrief</title>
+
+	<id>https://geekout.org.uk/posts/Kit_debrief/</id>
+
+	<link href="https://geekout.org.uk/posts/Kit_debrief/"/>
+
+
+
+
+
+
+	<category term="kai" />
+
+	<category term="kit" />
+
+
+	<updated>2019-09-03T15:05:28Z</updated>
+	<published>2019-08-31T06:46:10Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;If I can scan the &lt;a href=&quot;https://geekout.org.uk/kit/&quot;&gt;kit&lt;/a&gt; list of what we brought, I thought I should extol
+which was good and what was a waste of space.&lt;/p&gt;
+
+&lt;h1&gt;The good&lt;/h1&gt;
+
+&lt;h2&gt;Tomtom &amp;amp; Google Maps&lt;/h2&gt;
+
+&lt;p&gt;We cheated. Team Geekout relied heavily on GPS for navigation during the Mongol
+Rally. The Tomtom saved us hours in Europe until it stopped working as we
+entered Ukraine. From that point on Google maps helped us, except for a fairly
+&lt;a href=&quot;https://geekout.org.uk/posts/The_Perils_of_using_Google_maps/&quot;&gt;entertaining instance&lt;/a&gt; in Ukraine.&lt;/p&gt;
+
+&lt;p&gt;Otherwise we didn&#39;t use it for turn by turn navigation, just as a guide to
+ensure we were going to the right direction on the right road. The new-ish
+Google maps pre-cache map area looked cool, but since you can&#39;t search offline
+I must say it sucked. Especially in big crazy cities like Tehran. It was better than nothing though.&lt;/p&gt;
+
+&lt;p&gt;There are lots of annoying seething bugs in Google maps for Android, like when you
+accidentally press the back button and lose current navigation. So sometimes I
+would switch to using the Iphone4&#39;s Google maps application, or use both and as
+both would somehow have different levels of cache of the same road.&lt;/p&gt;
+
+&lt;h2&gt;Spot connect&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/6177975222/&quot; title=&quot;IMG_0234 by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6153/6177975222_fbac1512b0_m.jpg&quot; width=&quot;240&quot; height=&quot;179&quot; alt=&quot;IMG_0234&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite my initial apprehensions, the &lt;a href=&quot;https://www.globaltelesat.co.uk/satphone/SPOT_Connect.html#a288&quot;&gt;SPOT
+connect&lt;/a&gt;
+actually worked rather well. The device demands &lt;a href=&quot;https://faq.findmespot.com/index.php?action=showEntry&amp;amp;data=1330&quot;&gt;lithium
+batteries&lt;/a&gt;
+which are frankly impossible to source. Normal Alkaline Duracell lasted about 2
+working days and cheap Chinese ones, less than a day. Which was very annoying.
+It does have a mini-USB slot underneath it and looks like it could be powered
+by it, but it didn&#39;t seem to work frustratingly.&lt;/p&gt;
+
+&lt;p&gt;Despite the clunky client and UI, the SPOT tracklog worked and we now have a
+fantastic &lt;a href=&quot;https://geekout.org.uk/map/&quot;&gt;tracklog of our journey&lt;/a&gt;. Was that worth
+300GBP despite fact one could collate GPS tracklogs?! I think so... because it
+kept our followers engaged in realtime. It was also handy in the very rare
+instances our mobiles or Jamie&#39;s kindle didn&#39;t work to send a little 41
+character message out.&lt;/p&gt;
+
+&lt;h2&gt;Our blogging platform, &lt;a href=&quot;https://www.branchable.com/&quot;&gt;Branchable&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Many other Mongol rally teams failed to get past one or two blogs. Jamie and I
+blogged continuously through the trip... How? Without an internet connection?
+We used &lt;strong&gt;git&lt;/strong&gt; to commit blogs, and when we had internet in the briefest of
+moments we pushed and our readership got to enjoy our updates! Other blogging
+platforms basically assume you are on the Internet whilst writing the post,
+which sucks. &lt;a href=&quot;https://www.branchable.com/&quot;&gt;Branchable&lt;/a&gt; powered by &lt;a href=&quot;https://ikiwiki.info/&quot;&gt;Ikiwiki&lt;/a&gt; rocks.&lt;/p&gt;
+
+&lt;h2&gt;The Kindle&lt;/h2&gt;
+
+&lt;p&gt;Jamie has talked about this before in numerous tweets and FB updates. Amazingly
+this device kept him connected in every country bar Turkmenistan,
+though it was a bit flaky through the &#39;stans. From our experience &lt;a href=&quot;https://client0.cellmaps.com/viewer.html?cov=2&amp;amp;view=intl&quot;&gt;Amazon&#39;s coverage map&lt;/a&gt; seems quite accurate. Incredibly useful. I will
+purchase the next update myself.&lt;/p&gt;
+
+&lt;p&gt;Apparently &lt;a href=&quot;https://www.amazon.com/forum/kindle?_encoding=UTF8&amp;amp;cdForum=Fx1D7SY3BVSESG&amp;amp;cdThread=Tx390HFZ5SRXHJ6&quot;&gt;newer &quot;Touch&quot; Kindles will not offer free 3G browsing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;https://moo.com/products/business-cards.html&quot;&gt;Moo business cards&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Could have printed my mobile number though, otherwise super useful. Expensive
+unreliable mobile calls were the no. 1 way teams communicated unfortunately.&lt;/p&gt;
+
+&lt;h2&gt;Vegabond Systems Source Widepac Water bladder 3L in the micra&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/6177481443/&quot; title=&quot;IMG_0395 by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6176/6177481443_c3149902b8_m.jpg&quot; width=&quot;240&quot; height=&quot;179&quot; alt=&quot;IMG_0395&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love this bladder, although Jamie correctly pointed out we could just use
+water bottles. I liked it because:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We could hang it off the headrest behind the passenger seat and have the tube
+sit around the handbrake, in easy reach of hydration.&lt;/li&gt;
+&lt;li&gt;One could hydrate while keeping both hands on the steering wheel and have clear vision&lt;/li&gt;
+&lt;li&gt;We kept it in hot countries in a cooler box with ice, so it delivered cool water all day (You can actually freeze the whole damn thing)&lt;/li&gt;
+&lt;li&gt;3L typically holds two plastic water bottles and it&#39;s less unsightly than keeping bottle upon bottle in the car&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It did exhibit problems after hard use. Later in the car journey it fealt a bit
+gassy, as we sucked there seemed to be air coming in from somewhere. Near the
+very end of the journey the &lt;a href=&quot;https://www.flickr.com/photos/hendry/6167704999/&quot;&gt;Widepac started to
+leak&lt;/a&gt;. &lt;img src=&quot;https://geekout.org.uk/smileys/sad.png&quot; alt=&quot;:(&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Update: &lt;a href=&quot;https://twitter.com/#!/SourceOutdoor&quot;&gt;SourceOutdoor&lt;/a&gt; replaced the
+Widepac and threw in a Spresh. I highly recommend &lt;a href=&quot;https://sourceoutdoor.com/&quot;&gt;Source
+Outdoor&lt;/a&gt; products!&lt;/p&gt;
+
+&lt;h2&gt;Korean cooker&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/5973188757/&quot; title=&quot;We got gas by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6016/5973188757_54f5b365ed_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;We got gas&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It amazes me how many different camping stove non-standards there are. I
+recommend the Korean gas cooker. It&#39;s not great if you are hiking since it fits
+in a bulky looking briefcase. Though if you are in a car, it&#39;s perfect. The
+butane gas canisters are the easiest fuel source to obtain practically anywhere
+in the world.&lt;/p&gt;
+
+&lt;p&gt;I must also mention that our Korean Nong Shim ramen &lt;a href=&quot;https://www.flickr.com/photos/hendry/5872491113/&quot;&gt;we
+bought&lt;/a&gt;, esp. with an egg is a
+much better meal than some of this dehydrated protein ration packs we saw other
+teams use.&lt;/p&gt;
+
+&lt;h2&gt;Crafty Plugger&lt;/h2&gt;
+
+&lt;p&gt;Jamie was dubious as to how well the Crafty Plugger would work on a puncture caused by a stone, but we used it on the one puncture we had after the Pamir Highway and it was very quick and easy and worked very well.&lt;/p&gt;
+
+&lt;h2&gt;Non-Slip Mat&lt;/h2&gt;
+
+&lt;p&gt;Jamie laughed at Kai for buying the non-slip mat, but has to admit that it was pretty useful, until Kai lost it. It was one of Geekout&#39;s lowest days.&lt;/p&gt;
+
+&lt;h2&gt;GoPro Hero HD&lt;/h2&gt;
+
+&lt;p&gt;The GoPro was going strong, until we ran it over. The camera itself was undamaged (despite getting wet) but the sucker mount was broken beyond repair and the clip holding the main case together was broken. We resorted to one of the sticky mounts and tape respectively. Unfortunately I didn&#39;t realise that &lt;a href=&quot;https://www.youtube.com/watch?v=GA-BvymgNxI#t=0m25s&quot;&gt;the white rubber bit is for damping those mounts&lt;/a&gt;, and consequently the audio is pretty much useless, and the video not much better. The angle that it shot from the dashboard was pretty bad too, I should have taken the plunge and stuck it straight onto the windscreen.&lt;/p&gt;
+
+&lt;p&gt;The GoPro UI is pretty simple, just two buttons. However if you don&#39;t use it much and can&#39;t see the light or hear the beeps, or know what the beeps mean, then it can be difficult to know what/if the button you have just pressed has done. Hence we have a lot of recordings of quizzical faces looming into view to check that it&#39;s recording. I personally found it difficult to remember which button did what when the camera was upside down. It also wasn&#39;t much cop in darker conditions.&lt;/p&gt;
+
+&lt;p&gt;The battery would last for approximately two to three hours, which was enough, the problem was that the battery meter was practically useless, it would sink from three bars to empty in minutes, meaning that we had to either remember how much we had used it, or just charge it whenever we could. Strangely the GoPro seemed to use almost as much battery while on but not doing anything as it did when it was actually filming. While it does have a battery meter, there is no meter at all for available space on the SD card, which is something that GoPro really needs to address.&lt;/p&gt;
+
+&lt;h2&gt;HTC Double USB Car Adapter&lt;/h2&gt;
+
+&lt;p&gt;Very useful and lasted the entire journey. In fact it was probably one of the most reliable things we, erm, relied on. Especially once Jamie had taped it up with the cigarette lighter splitter.&lt;/p&gt;
+
+&lt;h2&gt;Kelly Kettle&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/6148440822/&quot; title=&quot;My Dung is on Fire by Jamie Kitson, on Flickr&quot;&gt;&lt;img src=&quot;https://farm7.staticflickr.com/6203/6148440822_0d8f1f53db_m.jpg&quot; width=&quot;240&quot; height=&quot;159&quot; alt=&quot;My Dung is on Fire&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Kelly Kettle was very good at what it did, boiling water, quickly and efficiently. We could have used it a bit more if we&#39;d camped more, it wasn&#39;t great in desert conditions, unless you could find some dung. I have to admit that it was a bit bulky and didn&#39;t pack-up that well.&lt;/p&gt;
+
+&lt;h1&gt;The bad&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a href=&quot;https://www.ortliebusa.com/CartGenie/prod-66.htm&quot;&gt;Ortlieb 10L water bladder&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I wanted to love the &lt;a href=&quot;https://www.flickr.com/photos/hendry/5973382943/&quot;&gt;10L Ortlieb water
+bladder&lt;/a&gt; I bought in Dresden.
+Unfortunately the tap became far too stiff and it leaked. The rubber ring was
+far too easy to dislodge I suspect. Also the straps could be far more
+comfortable to carry. Pity it sucked compared to my wonderful Ortlieb pannier
+which I took with my on the Mongol rally for keeping my documents and laptop in
+shape!&lt;/p&gt;
+
+&lt;h2&gt;Sony ICF-7600D&lt;/h2&gt;
+
+&lt;p&gt;I was in uproar when I heard BBC were suspending shortwave broadcasts, though
+honestly trying to use my shortwave kit whilst Jamie was say reading the
+Guardian on the Kindle, made me think... maybe the world has moved on. I did
+catch &lt;a href=&quot;https://www.bbc.co.uk/fromourowncorrespondent/&quot;&gt;FOOC&lt;/a&gt; once in Iran, but I
+could have downloaded the podcast in a number of previous opportunities.&lt;/p&gt;
+
+&lt;p&gt;Shortwave broadcasts still work in the Afghanistan region and I wish I could
+jettison my kit there somehow.&lt;/p&gt;
+
+&lt;p&gt;And going back to Iran, their Internet needs improving... I wonder if
+&lt;a href=&quot;https://www.tooway.com/&quot;&gt;Tooway&lt;/a&gt; could maybe made to work in Tehran. That would
+be cool.&lt;/p&gt;
+
+&lt;h2&gt;Iphone4&lt;/h2&gt;
+
+&lt;p&gt;Love the quality of video and how easy it is to mail off photographs on the
+move. It has some bad sides, like how do I now update the &quot;Standard Definition&quot;
+video uploads with &quot;High Definition&quot; videos now that I&#39;m on a better internet
+connection? Suck...&lt;/p&gt;
+
+&lt;h2&gt;Travelling with two passports&lt;/h2&gt;
+
+&lt;p&gt;Jamie had two passports. One had four valid visas in that Jamie needed for the
+trip, but which was full up and had been invalidated by the passport office by
+having the corner removed. The other passport was fully valid and had my three
+remaining visas in.  Generally this wasn&#39;t a problem, surprisingly especially
+at borders. More often it was local police that saw an opportunity for a bribe.&lt;/p&gt;
+
+&lt;h1&gt;The ugly&lt;/h1&gt;
+
+&lt;h2&gt;PowerMonkey Explorer&lt;/h2&gt;
+
+&lt;p&gt;I bought the &quot;PowerMonkey Explorer&quot; which I was excited about at first and it
+stopped working on day 2. Although &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6C;&amp;#116;&amp;#x6F;:&amp;#101;m&amp;#x69;&amp;#x6C;&amp;#121;&amp;#64;&amp;#x70;&amp;#111;&amp;#x77;&amp;#101;&amp;#x72;&amp;#x74;&amp;#x72;&amp;#97;&amp;#118;&amp;#101;&amp;#x6C;&amp;#x6C;e&amp;#114;&amp;#46;&amp;#x63;&amp;#x6F;&amp;#109;&quot;&gt;&amp;#101;m&amp;#x69;&amp;#x6C;&amp;#121;&amp;#64;&amp;#x70;&amp;#111;&amp;#x77;&amp;#101;&amp;#x72;&amp;#x74;&amp;#x72;&amp;#97;&amp;#118;&amp;#101;&amp;#x6C;&amp;#x6C;e&amp;#114;&amp;#46;&amp;#x63;&amp;#x6F;&amp;#109;&lt;/a&gt; provided good
+customer service, she could have told me: &quot;Send to this address and we will
+re-imburse you&quot;. It takes two backpack pouches and I ended up carrying it
+needlessly for 20k kms, which is madness. I seeth with hate when I accidentally
+open one of my pouches and all it&#39;s bit and bobs fall out. The device was
+completely unnecessary since we had a 2 Slot micro-USB car charger anyway.
+Avoid!&lt;/p&gt;
+
+&lt;h2&gt;CB radio&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/5976788789/&quot; title=&quot;#mongolrally folks with CB radios, we are on EU 23 by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm7.static.flickr.com/6147/5976788789_5dc3d05a95_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;#mongolrally folks with CB radios, we are on EU 23&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This 50GBP kit I ended up giving away in Ulaanbatar because I couldn&#39;t sell it.
+Later as I took a taxi to the airport, I did realise he was using a CB radio
+and I therefore should have pitched my wares to a Taxi firm.  We used it once
+with Rick on the road out of Goodwood. Since that we found no other team with
+such communication kit. It&#39;s a far better idea to buy good quality small walky
+talkies. I recommend the Motorola T8s.&lt;/p&gt;
+
+&lt;h2&gt;Jerry can&lt;/h2&gt;
+
+&lt;p&gt;You seriously don&#39;t need a jerry can on the Mongol rally. Petrol in a can
+expands and it&#39;s often pressurized when you open it. The vapour can easily
+ignite and can leave you in &lt;a href=&quot;https://geekout.org.uk/posts/Khovd_to_Altay__44___Mongolia/&quot;&gt;a very dangerous situation&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2&gt;Spare shock absorber&lt;/h2&gt;
+
+&lt;p&gt;We lugged around a spare Micra shock absorber. Wtf Jamie. WTF? &lt;img src=&quot;https://geekout.org.uk/smileys/smile.png&quot; alt=&quot;:)&quot; /&gt; [It was about
+as heavy and bulky as your pillow, you pussy :P] Spares like the air filter
+were unnecessary as you can easily knock the dust out of a filter on the move.&lt;/p&gt;
+
+&lt;h2&gt;Car Cigarette Lighter Socket Splitter&lt;/h2&gt;
+
+&lt;p&gt;We tried two of these, we didn&#39;t even bother taking the 4-way (bottom right &lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/5849953365/in/datetaken/&quot;&gt;here&lt;/a&gt;, detail &lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/5943368019/in/datetaken/&quot;&gt;here&lt;/a&gt;), &lt;a href=&quot;https://www.flickr.com/photos/hendry/5950819915/in/datetaken/&quot;&gt;the 2-way&lt;/a&gt; was still very annoying and Jamie ended up taping it right up in order to stop it cutting out on bumpy roads. If we&#39;d been using the CB radio we would have needed it, but as it was the double USB adapter we had was enough.&lt;/p&gt;
+
+&lt;h1&gt;What we didn&#39;t take&lt;/h1&gt;
+
+&lt;h2&gt;Mains USB Charger&lt;/h2&gt;
+
+&lt;p&gt;Although we didn&#39;t really miss it I recently bought &lt;a href=&quot;https://www.play.com/PC/PCs/4-/15403175/Kensington-4-Port-USB-Mains-Charger-Ref-K38035EU/Product.html?_%24ja=tsid:11518|cat:15403175|prd:15403175&quot;&gt;a 4 port mains USB charger&lt;/a&gt; which handily comes with both UK and EU plugs, which would have been very handy.&lt;/p&gt;
+
+&lt;h2&gt;External Microphones&lt;/h2&gt;
+
+&lt;p&gt;There are plenty of cheapish external mics for iPhones, any of which I&#39;m sure would have improved our audio iPhone recordings no end. One particular problem was that it seemed quite easy for Kai to cover the mic with his hand meaning we got virtually no audio at all.&lt;/p&gt;
+
+&lt;p&gt;I assume that we could have also attached an external mic to the GoPro, whose audio is even worse than the iPhone&#39;s.&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Kit_debrief/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Kit_debrief/comments.atom" type="application/atom+xml" />
+
+</entry>
+<entry>
+	<title>Mongol car accessories</title>
+
+	<id>https://geekout.org.uk/posts/Mongol_car_accessories/</id>
+
+	<link href="https://geekout.org.uk/posts/Mongol_car_accessories/"/>
+
+
+
+
+
+
+	<category term="car" />
+
+	<category term="kit" />
+
+
+	<updated>2019-09-03T15:05:28Z</updated>
+	<published>2019-08-31T06:46:10Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/5768469322/&quot; title=&quot;Car Keys by Jamie Kitson, on Flickr&quot;&gt;&lt;img src=&quot;https://farm4.static.flickr.com/3505/5768469322_ab847f2ce2_m.jpg&quot; width=&quot;240&quot; height=&quot;159&quot; alt=&quot;Car Keys&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello! Have you &lt;a href=&quot;https://www.justgiving.com/teams/geekout/&quot;&gt;donated&lt;/a&gt; yet? We
+have almost met our targets with 6 and a half weeks to go!&lt;/p&gt;
+
+&lt;p&gt;In preparation I have the Haynes manual to the &lt;a href=&quot;https://geekout.org.uk/posts/Micra_to_Mongolia/&quot;&gt;micra&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/5811581268/&quot; title=&quot;Nissan micra repair handbook has arrived by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm4.static.flickr.com/3421/5811581268_727f5015d0_m.jpg&quot; width=&quot;180&quot; height=&quot;240&quot; alt=&quot;Nissan micra repair handbook has arrived&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And a phone charger for keeping you guys informed:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/hendry/5814285121/&quot; title=&quot;Mongol rally car charger by Kai Hendry, on Flickr&quot;&gt;&lt;img src=&quot;https://farm6.static.flickr.com/5272/5814285121_11542f84f8_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Mongol rally car charger&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What else do we need? Have a look at out &lt;a href=&quot;https://geekout.org.uk/kit/&quot;&gt;kit&lt;/a&gt; list and suggest anything you may think might help us.&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Mongol_car_accessories/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Mongol_car_accessories/comments.atom" type="application/atom+xml" />
+
+</entry>
+<entry>
+	<title>Shopping Trip</title>
+
+	<id>https://geekout.org.uk/posts/Shopping_Trip/</id>
+
+	<link href="https://geekout.org.uk/posts/Shopping_Trip/"/>
+
+
+
+
+
+
+	<category term="car" />
+
+	<category term="jamie" />
+
+	<category term="kit" />
+
+	<category term="repairs" />
+
+
+	<updated>2019-09-03T15:05:28Z</updated>
+	<published>2019-08-31T06:46:10Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;So I spent much of Saturday looking for bits and pieces for the car, and
+&lt;a href=&quot;https://geekout.org.uk/kit/&quot;&gt;anything else&lt;/a&gt; that could be generally useful. I started by
+looking for breaker&#39;s yards in the Yellow Pages, hoping for a bit of a
+Scrapheap Challenge job: looking around, finding a Micra in surprisingly good
+condition stacked on top of two other cars, clambering up and ripping the thing
+apart with an angle grinder. Back in the real world the only place I could find
+with any Micra spares was Hove Car Spares. They said they could sell me a
+suspension unit complete with wheel hub for £30 and could find me a second
+spare wheel. I went and picked up the unit, but unfortunately no wheel, they
+said they&#39;d have them in this week. They also gave me some handy tips about
+what might be useful and sold me an ignition coil and recommended some liquid
+metal and a new fan belt. I was also told that the drive shafts on Micra&#39;s were
+weak, eek.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/5849953365/&quot; title=&quot;So Far by Jamie Kitson, on Flickr&quot;&gt;&lt;img src=&quot;https://farm6.static.flickr.com/5225/5849953365_90dc50f9d2.jpg&quot; width=&quot;500&quot; height=&quot;331&quot; alt=&quot;So Far&quot;&gt;&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;We&#39;ll probably take the hub off before we go, it&#39;s quite heavy and would only
+fit one side.&lt;/p&gt;
+
+&lt;p&gt;On the way back to Steyning is a B&amp;amp;Q and Halford&#39;s in the same lot. I stopped,
+felt depressed by the superstore anonymity of it all and left. In Steyning is a
+lovely little shop called Steyning Motor Spares run by Pete. I stopped off and
+spent probably the better part of an hour wandering around finding useful
+stuff, pictured above. I left him a list of things to see if he could get
+including a pump and a cheap tool set.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/5850504276/&quot; title=&quot;First Damage by Jamie Kitson, on Flickr&quot;&gt;&lt;img src=&quot;https://farm4.static.flickr.com/3050/5850504276_41bc2fa18f_t.jpg&quot; width=&quot;100&quot; height=&quot;66&quot; alt=&quot;First Damage&quot; align=&quot;left&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.flickr.com/photos/jamiekitson/5850505180/&quot; title=&quot;First Repair by Jamie Kitson, on Flickr&quot;&gt;&lt;img src=&quot;https://farm3.static.flickr.com/2745/5850505180_03d80e09dd_t.jpg&quot; width=&quot;100&quot; height=&quot;66&quot; alt=&quot;First Repair&quot; align=&quot;right&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Back at my mum&#39;s I found my sister Maddy and her boyfriend Josh, who is a bit
+of a mechanic. Showing him around the car getting tips and advice we reached
+the engine, he was pointing things out to me, tapping this and that, when there
+was a crunch and a &quot;Whoops&quot;, he&#39;d put his finger through the coolant reservoir.
+Which I was able to quickly repair using my newly acquired duct tape. &lt;/p&gt;
+
+&lt;p&gt;While at Mum&#39;s I checked out the tent situation. Not good. Both tents had many
+broken poles, which makes dome tents difficult, to say the least. It seems like
+we might as well buy a new cheapo one, that will at least be quick to put up.&lt;/p&gt;
+
+&lt;p&gt;In other news Kai and I have been &quot;discussing&quot; &lt;a
+href=&quot;https://www.theadventurists.com/&quot;&gt;the new Adventurists website&lt;/a&gt;. For
+the record I like the new site, it&#39;s nice and bright, it looks good, it&#39;s easy
+to get around and I completely understand why they have chosen to compile the
+handbook into a PDF.&lt;/p&gt;
+
+&lt;p&gt;Jamie&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Shopping_Trip/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Shopping_Trip/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>

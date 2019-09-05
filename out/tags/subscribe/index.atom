@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pages tagged subscribe</title>
+<link href="https://geekout.org.uk/tags/subscribe/"/>
+<link href="https://geekout.org.uk/tags/subscribe/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Team Geekout (Jamie&Kai) geeked out on the Mongol Rally 2011</name>
+
+</author>
+
+
+
+
+<id>https://geekout.org.uk/tags/subscribe/</id>
+
+<subtitle type="html">Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2019-09-03T15:05:28Z</updated>
+<entry>
+	<title>Subscribe by Email</title>
+
+	<id>https://geekout.org.uk/posts/Subscribe_by_Email/</id>
+
+	<link href="https://geekout.org.uk/posts/Subscribe_by_Email/"/>
+
+
+
+
+
+
+	<category term="social" />
+
+	<category term="subscribe" />
+
+	<category term="updates" />
+
+
+	<updated>2019-09-03T15:05:28Z</updated>
+	<published>2019-08-31T06:46:10Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;You can use the links below to sign up to receive an email of our updates once every 24 hours. Use the first link if you would like to receive &lt;a href=&quot;https://geekout.org.uk/planet&quot;&gt;all of our updates&lt;/a&gt; including blog posts and tweets. Use the second link if you would like to sign up to receive &lt;a href=&quot;https://geekout.org.uk/posts&quot;&gt;just blog posts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=PlanetGeekout&amp;amp;loc=en_US&quot;&gt;I want to get everything!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=TeamGeekout&amp;amp;loc=en_US&quot;&gt;I just want to get blog posts.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alternatively join our &lt;a href=&quot;https://www.facebook.com/group.php?gid=219322734774041&quot;&gt;Geekout Facebook group&lt;/a&gt; which will also get all our updates.&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Subscribe_by_Email/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Subscribe_by_Email/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>

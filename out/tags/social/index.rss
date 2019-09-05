@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>pages tagged social</title>
+<link>https://geekout.org.uk/tags/social/</link>
+<atom:link href="https://geekout.org.uk/tags/social/index.rss" rel="self" type="application/rss+xml"/>
+
+<description>Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</description>
+<generator>ikiwiki</generator>
+<pubDate>Tue, 03 Sep 2019 16:05:28 +0100</pubDate>
+<item>
+	<title>Gone walkabout</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Gone_walkabout/</guid>
+
+	<link>https://geekout.org.uk/posts/Gone_walkabout/</link>
+
+
+
+	<category>social</category>
+
+
+	<pubDate>Sat, 31 Aug 2019 07:46:10 +0100</pubDate>
+	<dcterms:modified>2019-09-03T15:05:28Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;Jamie and I with my girlfriend &lt;a href=&quot;https://twitter.com/#!/rufiec&quot;&gt;Ruth&lt;/a&gt; have met
+Paul Van Est from &lt;a href=&quot;https://www.teamgonewalkabout.com/&quot;&gt;Team Walkabout&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We exchanged news of our preparations and I&#39;m shocked to hear that there might
+not be any hotels along the way to Mongolia, which means we need to &lt;strong&gt;camp&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;There goes my plan of wearing pressed shirts throughout the trip and enjoying
+myself.&lt;/p&gt;
+
+&lt;p&gt;We chatted about what we could possibly give the locals besides diseases.
+Should we tell them about our lives back home in Western civilisation? Should
+we lie to them? Should we spread the message of hope, that we are coming for
+their oil in exchange for democracy?&lt;/p&gt;
+
+&lt;p&gt;Perhaps the people of the East will surprise us Westerners. Maybe they possess
+technologies we don&#39;t know about.&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/Gone_walkabout/#comments</comments>
+
+</item>
+<item>
+	<title>Subscribe by Email</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Subscribe_by_Email/</guid>
+
+	<link>https://geekout.org.uk/posts/Subscribe_by_Email/</link>
+
+
+
+	<category>social</category>
+
+	<category>subscribe</category>
+
+	<category>updates</category>
+
+
+	<pubDate>Sat, 31 Aug 2019 07:46:10 +0100</pubDate>
+	<dcterms:modified>2019-09-03T15:05:28Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;You can use the links below to sign up to receive an email of our updates once every 24 hours. Use the first link if you would like to receive &lt;a href=&quot;https://geekout.org.uk/planet&quot;&gt;all of our updates&lt;/a&gt; including blog posts and tweets. Use the second link if you would like to sign up to receive &lt;a href=&quot;https://geekout.org.uk/posts&quot;&gt;just blog posts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=PlanetGeekout&amp;amp;loc=en_US&quot;&gt;I want to get everything!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=TeamGeekout&amp;amp;loc=en_US&quot;&gt;I just want to get blog posts.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alternatively join our &lt;a href=&quot;https://www.facebook.com/group.php?gid=219322734774041&quot;&gt;Geekout Facebook group&lt;/a&gt; which will also get all our updates.&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/Subscribe_by_Email/#comments</comments>
+
+</item>
+
+</channel>
+</rss>

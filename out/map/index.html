@@ -1,0 +1,119 @@
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+            <meta charset="UTF-8">
+			<style type="text/css">
+				html { height: 100% }
+				body { height: 100%; margin: 0; padding: 0 }
+				#map_canvas { height: 100% }
+			</style>
+			<script type="text/javascript"
+				src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCojmxiSM7VTPNBPlT_ma_PxWwhLWz0r2s">
+			</script>
+			<script type="text/javascript"
+                                src="markermanager_packed.js">
+			</script>
+
+			<script type="text/javascript">
+			
+				var map;
+				var markerManager;
+
+				function initialize() {
+				
+					// init map
+					var myOptions = {
+						zoom: 3,
+						center: new google.maps.LatLng(44.176295,38.561707),
+						mapTypeId: google.maps.MapTypeId.ROADMAP,
+						scaleControl: true
+					};
+					map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+					// add marker manager
+					markerManager = new MarkerManager(map);
+					google.maps.event.addListener(markerManager, 'loaded', function(){
+						setupOverlay();
+                        /*
+						google.maps.event.addListener(map, 'zoom_changed', function() {
+						updateStatus(markerManager.getMarkerCount(map.getZoom()));
+						});
+                        */
+					}); 
+
+				}
+				
+				function setupOverlay() {
+
+					var blueMarkerImage = new google.maps.MarkerImage('blue-dot.png',
+					                                                  new google.maps.Size(32,32),
+																	  new google.maps.Point(0,0),
+																	  new google.maps.Point(16,32));
+					var orangeMarkerImage = new google.maps.MarkerImage('orange-dot.png',
+					                                                  new google.maps.Size(32,32),
+																	  new google.maps.Point(0,0),
+																	  new google.maps.Point(16,32));
+					var messageMarkerImage = new google.maps.MarkerImage('text.png',
+					                                                  new google.maps.Size(32,37),
+																	  new google.maps.Point(0,0),
+																	  new google.maps.Point(16,37));
+				
+					var polyOptions = {
+						strokeColor: '#0000FF',
+						strokeOpacity: 1.0,
+						strokeWeight: 3
+					}
+					poly = new google.maps.Polyline(polyOptions);
+					var path = poly.getPath();				
+
+xmlHttp=new XMLHttpRequest();
+xmlHttp.open("GET", "data.csv.html", true);
+xmlHttp.onload = function (e) {
+
+var lines=xmlHttp.responseText.split("\n");
+for ( var i = 0; i < lines.length; i++ )
+{
+  var el = lines[i].split(' ');
+  if (el.length < 3)
+    continue;
+  var latlng = new google.maps.LatLng(el[1], el[2]);
+  path.push(latlng); 
+  if (el.length == 3)
+  {
+    var mark = new google.maps.Marker({position: latlng, title: el[0], icon: blueMarkerImage, optimized : false});
+    markerManager.addMarker(mark, 10);
+  }
+  else
+  {
+    var tit = el.slice(3).join(' ');
+//    alert(tit);
+    var mark = new google.maps.Marker({position: latlng, title: tit, icon: messageMarkerImage, optimized : false});
+    markerManager.addMarker(mark, 7);
+  }
+}
+
+					poly.setMap(map);
+};
+xmlHttp.send(null);
+				}
+			</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1705326-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		</head>
+		<body onload="initialize()">
+		<div id="map_canvas" style="width:100%; height:100%"></div>
+		<p></p>
+		</body>
+	</html>

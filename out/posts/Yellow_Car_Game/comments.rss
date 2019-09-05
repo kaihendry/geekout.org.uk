@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>posts/Yellow Car Game</title>
+<link>https://geekout.org.uk/posts/Yellow_Car_Game/</link>
+<atom:link href="https://geekout.org.uk/posts/Yellow_Car_Game/comments.rss" rel="self" type="application/rss+xml"/>
+
+<description>Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</description>
+<generator>ikiwiki</generator>
+<pubDate>Sat, 31 Aug 2019 07:46:10 +0100</pubDate>
+<item>
+	<title>GoPro</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Yellow_Car_Game/comment_1_ac76f90dba1f0a0c86f7c74c59bdfb9f/</guid>
+
+	<link>https://geekout.org.uk/posts/Yellow_Car_Game/#comment-ce66abf4e9ed197ded64893d9d66eb27</link>
+
+	<dc:creator>https://me.yahoo.com/a/6EjOSNMYlMmGUDE83hZmhYEJp6_.SBkN#a242d</dc:creator>
+
+
+	<pubDate>Thu, 28 Jul 2011 00:50:41 +0100</pubDate>
+	<dcterms:modified>2019-08-31T06:46:10Z</dcterms:modified>
+
+
+	<description>The GoPro was a genius idea. More video please!
+</description>
+
+
+</item>
+
+</channel>
+</rss>

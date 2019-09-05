@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>pages tagged start</title>
+<link>https://geekout.org.uk/tags/start/</link>
+<atom:link href="https://geekout.org.uk/tags/start/index.rss" rel="self" type="application/rss+xml"/>
+
+<description>Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</description>
+<generator>ikiwiki</generator>
+<pubDate>Tue, 03 Sep 2019 16:05:28 +0100</pubDate>
+<item>
+	<title>Launch Video</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Launch_Video/</guid>
+
+	<link>https://geekout.org.uk/posts/Launch_Video/</link>
+
+
+
+	<category>england</category>
+
+	<category>launch</category>
+
+	<category>pete</category>
+
+	<category>start</category>
+
+	<category>video</category>
+
+
+	<pubDate>Sat, 31 Aug 2019 07:46:10 +0100</pubDate>
+	<dcterms:modified>2019-09-03T15:05:28Z</dcterms:modified>
+
+
+	<description>&lt;iframe class=&quot;youtube-player&quot; type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;385&quot; src=&quot;https://www.youtube.com/embed/Kb_c5CRJfM4&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pete made this excellent video and slideshow of the start of the Mongol Rally. Thanks Pete!&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/Launch_Video/#comments</comments>
+
+</item>
+
+</channel>
+</rss>
