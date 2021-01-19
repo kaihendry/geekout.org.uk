@@ -1,0 +1,1 @@
+[[!map pages="drafts/* and ! drafts/*/*"]]
