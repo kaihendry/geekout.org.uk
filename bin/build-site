@@ -28,6 +28,7 @@ ikiwiki --timeformat '%F' \
         --plugin favicon \
         --plugin goodstuff \
         --plugin img \
+        --plugin inline \
         --plugin lockedit \
         --plugin rawhtml \
         --plugin sidebar \
