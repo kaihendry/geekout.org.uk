@@ -9,6 +9,7 @@ jobs:
       - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl
       - run: mkdir ../html
       - run: ./bin/build-site . ../html
+      - run: cp style.css ../html
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
