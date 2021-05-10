@@ -17,7 +17,159 @@
 
 <subtitle type="html">Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2021-05-10T09:46:17Z</updated>
+<updated>2021-05-10T10:19:48Z</updated>
+<entry>
+	<title>change to out/about/index.html out/blog/index.html out/build.sh out/ikiwiki.cgi out/index.html out/out/ikiwiki.cgi out/planet/index.atom out/planet/index.html out/planet/index.rss out/posts/Campbell_Irvine_Mongol_Rally_Insurance/index.html  on Team Geekout (Jamie&#x26;Kai) geeked out on the Mongol Rally 2011</title>
+
+	<id>https://geekout.org.uk/recentchanges/change_a3252a230cec5b843581054000b41d6f952e437c/</id>
+
+	<link href="https://geekout.org.uk/recentchanges/#change-a3252a230cec5b843581054000b41d6f952e437c"/>
+
+	<author><name>jamie</name></author>
+
+
+
+
+
+	<updated>2021-05-10T10:19:48Z</updated>
+	<published>2021-05-10T10:19:48Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-a3252a230cec5b843581054000b41d6f952e437c&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fabout%2Findex.html&quot; rel=&quot;nofollow&quot;&gt;out/about/index.html&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fblog%2Findex.html&quot; rel=&quot;nofollow&quot;&gt;out/blog/index.html&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fbuild.sh&quot; rel=&quot;nofollow&quot;&gt;out/build.sh&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fikiwiki.cgi&quot; rel=&quot;nofollow&quot;&gt;out/ikiwiki.cgi&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Findex.html&quot; rel=&quot;nofollow&quot;&gt;out/index.html&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fout%2Fikiwiki.cgi&quot; rel=&quot;nofollow&quot;&gt;out/out/ikiwiki.cgi&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fplanet%2Findex.atom&quot; rel=&quot;nofollow&quot;&gt;out/planet/index.atom&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fplanet%2Findex.html&quot; rel=&quot;nofollow&quot;&gt;out/planet/index.html&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fplanet%2Findex.rss&quot; rel=&quot;nofollow&quot;&gt;out/planet/index.rss&lt;/a&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=out%2Fposts%2FCampbell_Irvine_Mongol_Rally_Insurance%2Findex.html&quot; rel=&quot;nofollow&quot;&gt;out/posts/Campbell Irvine Mongol Rally Insurance/index.html&lt;/a&gt;
+
+...
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=jamie&quot; rel=&quot;nofollow&quot;&gt;jamie&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;11:19:48 10/05/21&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=revert&amp;amp;rev=a3252a230cec5b843581054000b41d6f952e437c&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://geekout.org.uk/wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+fixed time stamps&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- a3252a230cec5b843581054000b41d6f952e437c --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to build.sh on Team Geekout (Jamie&#x26;Kai) geeked out on the Mongol Rally 2011</title>
+
+	<id>https://geekout.org.uk/recentchanges/change_e9d7cd885a250c52574910a126185bb6efcc4ada/</id>
+
+	<link href="https://geekout.org.uk/recentchanges/#change-e9d7cd885a250c52574910a126185bb6efcc4ada"/>
+
+	<author><name>jamie</name></author>
+
+
+
+
+
+	<updated>2021-05-10T10:19:34Z</updated>
+	<published>2021-05-10T10:19:34Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-e9d7cd885a250c52574910a126185bb6efcc4ada&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=build.sh&quot; rel=&quot;nofollow&quot;&gt;build.sh&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=jamie&quot; rel=&quot;nofollow&quot;&gt;jamie&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;11:19:34 10/05/21&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=revert&amp;amp;rev=e9d7cd885a250c52574910a126185bb6efcc4ada&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://geekout.org.uk/wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+fix time stamps on files in build script&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- e9d7cd885a250c52574910a126185bb6efcc4ada --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to out/about/index.html out/archives/2011/01/index.html out/archives/2011/02/index.html out/archives/2011/03/index.html out/archives/2011/04/index.html out/archives/2011/05/index.html out/archives/2011/06/index.html out/archives/2011/07/index.html out/archives/2011/08/index.html out/archives/2011/09/index.html  on Team Geekout (Jamie&#x26;Kai) geeked out on the Mongol Rally 2011</title>
 
@@ -6542,138 +6694,6 @@ Add Almaty detail from Latitude data and switch from GMT to BST.&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;!-- 447f32e3acfe5b6eed912211f4370550e5c22975 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to map/index.html on Team Geekout (Jamie&#x26;Kai) geeked out on the Mongol Rally 2011</title>
-
-	<id>https://geekout.org.uk/recentchanges/change_6569e252988d1d75ed87668ea276167452afe7e6/</id>
-
-	<link href="https://geekout.org.uk/recentchanges/#change-6569e252988d1d75ed87668ea276167452afe7e6"/>
-
-	<author><name>jamiekitson</name></author>
-
-
-
-
-
-	<updated>2012-09-18T11:20:47Z</updated>
-	<published>2012-09-18T11:20:47Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-6569e252988d1d75ed87668ea276167452afe7e6&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=map%2Findex.html&quot; rel=&quot;nofollow&quot;&gt;map/index.html&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=jamiekitson&quot; rel=&quot;nofollow&quot;&gt;jamiekitson&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:20:47 18/09/12&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=revert&amp;amp;rev=6569e252988d1d75ed87668ea276167452afe7e6&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://geekout.org.uk/wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-Use latitude data to Iran&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-&lt;!-- 6569e252988d1d75ed87668ea276167452afe7e6 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to posts/Kit_debrief on Team Geekout (Jamie&#x26;Kai) geeked out on the Mongol Rally 2011</title>
-
-	<id>https://geekout.org.uk/recentchanges/change_4d7b951f71aa42111f2f6d6346d59a0da6548081/</id>
-
-	<link href="https://geekout.org.uk/recentchanges/#change-4d7b951f71aa42111f2f6d6346d59a0da6548081"/>
-
-	<author><name>http://jamiek.it/</name></author>
-
-
-
-
-
-	<updated>2012-06-29T11:17:04Z</updated>
-	<published>2012-06-29T11:17:04Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-4d7b951f71aa42111f2f6d6346d59a0da6548081&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=posts%2FKit_debrief&quot; rel=&quot;nofollow&quot;&gt;posts/Kit debrief&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=goto&amp;amp;page=http%3A%2F%2Fjamiek.it%2F&quot; rel=&quot;nofollow&quot;&gt;http://jamiek.it/&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:17:04 29/06/12&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://geekout.org.uk/ikiwiki.cgi?do=revert&amp;amp;rev=4d7b951f71aa42111f2f6d6346d59a0da6548081&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://geekout.org.uk/wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-minor tweaks&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-&lt;!-- 4d7b951f71aa42111f2f6d6346d59a0da6548081 --&gt;
 
 	</content>
 
