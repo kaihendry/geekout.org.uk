@@ -113,7 +113,7 @@ $(function() {
 			{
 			  var idx = Math.floor(Math.random() * photos.length);
 			  var photo = photos[idx];
-			  var img = $("<img>").attr( "src", photo.url_sq );
+              var img = $("<img>").attr( "src", photo.url_sq ).attr( "alt", photo.title).attr( "title", photo.title);
 			  var a = $("<a>").attr("href", "https://www.flickr.com/photo.gne?id=" + photo.id);
 			  img.appendTo(a);
 			  a.appendTo(div);
