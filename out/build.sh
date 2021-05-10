@@ -1,7 +1,5 @@
 #!/bin/bash
 
-aptitude download ikiwiki
+git log --pretty=%at --name-status --reverse | perl -ane '($x,$f)=@F;next if !$x;$t=$x,next if !defined($f)||$s{$f};$s{$f}=utime($t,$t,$f),next if $x=~/[AM]/;'
 
-dpkg-deb -x *.deb
-
-./usr/bin/ikiwiki ./ out 
+ikiwiki --setup geekout.org.uk.setup
