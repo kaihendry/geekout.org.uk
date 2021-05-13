@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pages tagged start</title>
+<link href="https://geekout.org.uk/tags/start/"/>
+<link href="https://geekout.org.uk/tags/start/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Team Geekout (Jamie&Kai) geeked out on the Mongol Rally 2011</name>
+
+</author>
+
+
+
+
+<id>https://geekout.org.uk/tags/start/</id>
+
+<subtitle type="html">Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2019-09-03T15:07:02Z</updated>
+<entry>
+	<title>Launch Video</title>
+
+	<id>https://geekout.org.uk/posts/Launch_Video/</id>
+
+	<link href="https://geekout.org.uk/posts/Launch_Video/"/>
+
+
+
+
+
+
+	<category term="england" />
+
+	<category term="launch" />
+
+	<category term="pete" />
+
+	<category term="start" />
+
+	<category term="video" />
+
+
+	<updated>2019-09-03T15:07:02Z</updated>
+	<published>2011-07-26T09:00:20Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;iframe class=&quot;youtube-player&quot; type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;385&quot; src=&quot;https://www.youtube.com/embed/Kb_c5CRJfM4&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pete made this excellent video and slideshow of the start of the Mongol Rally. Thanks Pete!&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Launch_Video/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Launch_Video/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>

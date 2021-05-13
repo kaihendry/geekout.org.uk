@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>pages tagged subscribe</title>
+<link>https://geekout.org.uk/tags/subscribe/</link>
+<atom:link href="https://geekout.org.uk/tags/subscribe/index.rss" rel="self" type="application/rss+xml"/>
+
+<description>Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</description>
+<generator>ikiwiki</generator>
+<pubDate>Tue, 03 Sep 2019 16:07:02 +0100</pubDate>
+<item>
+	<title>Subscribe by Email</title>
+
+	<guid isPermaLink="false">https://geekout.org.uk/posts/Subscribe_by_Email/</guid>
+
+	<link>https://geekout.org.uk/posts/Subscribe_by_Email/</link>
+
+
+
+	<category>social</category>
+
+	<category>subscribe</category>
+
+	<category>updates</category>
+
+
+	<pubDate>Sat, 25 Jun 2011 10:13:17 +0100</pubDate>
+	<dcterms:modified>2019-09-03T15:07:02Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;You can use the links below to sign up to receive an email of our updates once every 24 hours. Use the first link if you would like to receive &lt;a href=&quot;https://geekout.org.uk/planet&quot;&gt;all of our updates&lt;/a&gt; including blog posts and tweets. Use the second link if you would like to sign up to receive &lt;a href=&quot;https://geekout.org.uk/posts&quot;&gt;just blog posts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=PlanetGeekout&amp;amp;loc=en_US&quot;&gt;I want to get everything!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=TeamGeekout&amp;amp;loc=en_US&quot;&gt;I just want to get blog posts.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alternatively join our &lt;a href=&quot;https://www.facebook.com/group.php?gid=219322734774041&quot;&gt;Geekout Facebook group&lt;/a&gt; which will also get all our updates.&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/Subscribe_by_Email/#comments</comments>
+
+</item>
+
+</channel>
+</rss>

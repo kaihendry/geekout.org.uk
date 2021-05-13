@@ -1,6 +1,6 @@
-<center><a href="http://www.flickr.com/photos/jamiekitson/5962017318/" title="Team Geekout by Jamie Kitson, on Flickr"><img src="http://farm7.static.flickr.com/6136/5962017318_fd1dd982eb_z.jpg" width="640" height="457" alt="Team Geekout" style="border-style:none"></a>
+<center><a href="https://www.flickr.com/photos/jamiekitson/5962017318/" title="Team Geekout by Jamie Kitson, on Flickr"><img src="https://farm7.static.flickr.com/6136/5962017318_fd1dd982eb_z.jpg" width="640" height="457" alt="Team Geekout" style="border-style:none"></a>
 <br>
-By my sister <a href="http://flickr.com/maddybowers">Maddy</a>.
+By my sister <a href="https://flickr.com/maddybowers">Maddy</a>.
 </center>
 
 [[!tag England]]

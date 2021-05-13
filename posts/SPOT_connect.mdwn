@@ -1,9 +1,9 @@
-Bought a [SPOT connect](http://www.findmespot.com/en/index.php?cid=116) _geek
+Bought a [SPOT connect](https://www.findmespot.com/en/index.php?cid=116) _geek
 gadget_ so that you can track our progress and we can post short <41char
 updates!
 
 I bought the device from a UK distributor [Global Telesat
-Communications](http://www.globaltelesat.co.uk/) and I found it a tough
+Communications](https://www.globaltelesat.co.uk/) and I found it a tough
 decision to purchase, because the hardware costs 150GBP and the upkeep is 100+
 GBP a year plus extras. Extras like a SOS extraction service I've yet to figure
 out.
@@ -23,7 +23,7 @@ meaning that it failed...
 Days later in Steyning, I managed to send a couple of messages (to **great relief**),
 though they did not appear on a "Public shared map" I created:
 
-<http://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q>
+<https://share.findmespot.com/shared/faces/viewspots.jsp?glId=0E4XTjiADylnLZeEL5e24gU0yUzxckg9Q>
 
 Also my initial "testing 123" check-in message was written days back in London,
 however it only had the timestamp of when it was actually sent today. So...
@@ -32,5 +32,5 @@ that sucks.
 So far the SPOT service does seem quite unpolished, though I hope the SPOT
 customer services will come through to make this work better for us. My next
 biggest concern is how long the batteries work. 2x[AA
-batteries](http://en.wikipedia.org/wiki/AA_battery) will track [[Team
+batteries](https://en.wikipedia.org/wiki/AA_battery) will track [[Team
 Geekout|about]] for how long ? Pity it doesn't have a USB charge interface.

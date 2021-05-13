@@ -1,15 +1,15 @@
 Just put together a couple of videos of work we've done to our Micra.
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/L8nNlFtYJyc" frameborder="0"></iframe>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube.com/embed/L8nNlFtYJyc" frameborder="0"></iframe>
 
 The first is Josh putting together our sump guard. I think we need a bit more talking/commentary, but you get the idea.
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/IWTkzsmV13g" frameborder="0"></iframe>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube.com/embed/IWTkzsmV13g" frameborder="0"></iframe>
 
 The second is me attempting to change the oil and oil filter.
 
 # How it ended up doing
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/xeDinnb-vts" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xeDinnb-vts" frameborder="0" allowfullscreen></iframe>
 
 [[!tag video car repairs work]]
