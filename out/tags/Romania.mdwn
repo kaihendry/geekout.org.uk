@@ -1,0 +1,1 @@
+[[!map pages="out/tags/Romania/* and ! out/tags/Romania/*/*"]]
