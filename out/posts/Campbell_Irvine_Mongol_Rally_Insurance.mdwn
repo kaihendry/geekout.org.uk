@@ -1,0 +1,1 @@
+[[!map pages="out/posts/Campbell_Irvine_Mongol_Rally_Insurance/* and ! out/posts/Campbell_Irvine_Mongol_Rally_Insurance/*/*"]]
