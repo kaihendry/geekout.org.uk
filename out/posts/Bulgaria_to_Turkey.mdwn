@@ -1,0 +1,1 @@
+[[!map pages="out/posts/Bulgaria_to_Turkey/* and ! out/posts/Bulgaria_to_Turkey/*/*"]]
