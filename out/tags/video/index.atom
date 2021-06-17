@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pages tagged video</title>
+<link href="https://geekout.org.uk/tags/video/"/>
+<link href="https://geekout.org.uk/tags/video/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Team Geekout (Jamie&Kai) geeked out on the Mongol Rally 2011</name>
+
+</author>
+
+
+
+
+<id>https://geekout.org.uk/tags/video/</id>
+
+<subtitle type="html">Team Geekout (Jamie&amp;Kai) geeked out on the Mongol Rally 2011</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2019-09-03T15:07:02Z</updated>
+<entry>
+	<title>Launch Video</title>
+
+	<id>https://geekout.org.uk/posts/Launch_Video/</id>
+
+	<link href="https://geekout.org.uk/posts/Launch_Video/"/>
+
+
+
+
+
+
+	<category term="england" />
+
+	<category term="launch" />
+
+	<category term="pete" />
+
+	<category term="start" />
+
+	<category term="video" />
+
+
+	<updated>2019-09-03T15:07:02Z</updated>
+	<published>2011-07-26T09:00:20Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;iframe class=&quot;youtube-player&quot; type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;385&quot; src=&quot;https://www.youtube.com/embed/Kb_c5CRJfM4&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pete made this excellent video and slideshow of the start of the Mongol Rally. Thanks Pete!&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Launch_Video/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Launch_Video/comments.atom" type="application/atom+xml" />
+
+</entry>
+<entry>
+	<title>Car Work Videos</title>
+
+	<id>https://geekout.org.uk/posts/Car_Work_Videos/</id>
+
+	<link href="https://geekout.org.uk/posts/Car_Work_Videos/"/>
+
+
+
+
+
+
+	<category term="car" />
+
+	<category term="repairs" />
+
+	<category term="video" />
+
+	<category term="work" />
+
+
+	<updated>2019-09-03T15:07:02Z</updated>
+	<published>2011-07-21T17:40:41Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;Just put together a couple of videos of work we&#39;ve done to our Micra.&lt;/p&gt;
+
+&lt;iframe class=&quot;youtube-player&quot; type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;385&quot; src=&quot;https://www.youtube.com/embed/L8nNlFtYJyc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The first is Josh putting together our sump guard. I think we need a bit more talking/commentary, but you get the idea.&lt;/p&gt;
+
+&lt;iframe class=&quot;youtube-player&quot; type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;385&quot; src=&quot;https://www.youtube.com/embed/IWTkzsmV13g&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The second is me attempting to change the oil and oil filter.&lt;/p&gt;
+
+&lt;h1&gt;How it ended up doing&lt;/h1&gt;
+
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xeDinnb-vts&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/Car_Work_Videos/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/Car_Work_Videos/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>

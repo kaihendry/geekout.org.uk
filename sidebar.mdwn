@@ -1,4 +1,4 @@
-<a href="http://www.theadventurists.com/the-adventures/mongol-rally"><img src="/imgs/mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
+<a href="https://www.theadventurists.com/the-adventures/mongol-rally"><img src="/imgs/mongol-rally-logo-small.png" alt="Mongol Rally 2011"></a>
 
 ### [[About Jamie & Kai, team Geekout|About]]
 
@@ -13,7 +13,7 @@ Minutes: 57<br>
 
 12,566 miles / 20,223 km
 
-<iframe src="http://www.facebook.com/plugins/like.php?href=http://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 18em; height:80px"></iframe>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https://geekout.org.uk/" scrolling="no" frameborder="0" style="border:none; width: 18em; height:80px"></iframe>
 
 * [[Tag cloud|Tags]]
 
