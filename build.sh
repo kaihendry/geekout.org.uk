@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 # I don't think the following line helps, ikiwiki seems to default to ctime which you cannot touch, 
 # using --gettime asks ikiwiki to get the time stamps from git
@@ -7,5 +7,7 @@
 
 # Always force a rebuild since we're not likely to be doing simple posts any more
 # https://ikiwiki.info/bugs/IkiWiki_does_not_use_file__39__s_mtime_for_Last_Edited/
+
+# https://github.com/kaihendry/geekout.org.uk/issues/4
 
 ikiwiki --setup geekout.org.uk.setup --gettime --rebuild

@@ -15,7 +15,8 @@ jobs:
             docker build -t geekout .
       - name: Generate ikiwiki site
         run: |
-            docker run -v $PWD/out:/home/jamie/geekout.org.uk/out geekout
+            docker run -v $PWD/out:/home/jamie/geekout.org.uk/out geekout 2>&1 |
+            grep -v calendar.pm
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
