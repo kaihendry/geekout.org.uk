@@ -1,0 +1,15 @@
+name: Links
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress **/*.mdwn
