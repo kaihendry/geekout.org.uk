@@ -25,6 +25,8 @@ jobs:
       - name: S3 Sync to deploy
         run: |
           aws s3 sync --acl public-read out/ s3://geekout.org.uk --delete
+          # https://github.com/kaihendry/geekout.org.uk/issues/7
+          aws s3 sync --acl public-read map/ s3://geekout.org.uk/map
       - name: Invalidate CloudFront
         run: |
           aws cloudfront create-invalidation \
