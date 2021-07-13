@@ -13,5 +13,5 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress **/*.mdwn
+          args: --no-progress **/*.mdwn
           issue: false
