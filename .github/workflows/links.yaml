@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
+        continue-on-error: true
         with:
-          args: --no-progress **/*.mdwn || exit 0
+          args: --no-progress **/*.mdwn
           issue: false
