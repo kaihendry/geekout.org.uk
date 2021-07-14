@@ -7,11 +7,10 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v2
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --no-progress **/*.mdwn
+          args: --no-progress **/*.mdwn || exit 0
           issue: false
